@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: test
+subtitle: And my interests
 ---
 # About me
 
