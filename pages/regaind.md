@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-subtitle: ""
+subtitle: "Ranking portrait pictures using AI"
 ---
 
-You can [get the PDF](/pdf/Report_REGAIND.pdf).
+So this project was a lot of fun. I will write something to describe it but in the meantime you can [get the report.](/pdf/Report_REGAIND.pdf).
