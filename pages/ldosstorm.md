@@ -6,7 +6,7 @@ subtitle: ""
 
 ## Mapping the LDOS with super-resolution
 
-This work was done during my research internship when I was in my third year at ESPCI. I worked with Dorian Bouchet under the supervision of Ignaccio Izzedin.
+This work was done during my research internship when I was in my third year at ESPCI. I worked with Dorian Bouchet under the supervision of Ignacio Izeddin.
 
 You can find our publication on [Arxiv](https://arxiv.org/abs/1809.02778).
 
