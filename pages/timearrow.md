@@ -14,4 +14,6 @@ For a thorough explanation about this project you can get the report [here](/pdf
 
 The first step to predict the arrow of time was to extract the motion between each frames. To do that we computed the optical flow (which is the pattern of apparent motion of objects, surfaces, and edges in a visual scene) using Lukas-Kanade Dog
 
-$$z = x + y$$
+ {% raw %}
+  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
+ {% endraw %}
