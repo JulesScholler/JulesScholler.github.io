@@ -23,7 +23,7 @@ description: This website presents the work I've done during my PhD. It is not i
 
 # List of links in the navigation bar
 navbar-links:
-  Author's home: "http://JulesScholler.github.io"
+  Home: "http://JulesScholler.github.io"
   Publications:
     - Mapping the LDOS with super-resolution: "ldosstorm"
     - BOE: ""
