@@ -25,3 +25,5 @@ Remember that the diffraction limit arises because of the **propagation** of lig
 ### Back to purpose
 
 So what we wanted to do was to image the LDOS with a super-resolution. It is possible to measure the LDOS because it interacts with light. When you excite a fluorophore, which is a molecule that can emit fluorescent photon when you excite it with light, the LDOS influences the possibility for the fluorophore to recover its ground state, i.e. when it is not excited. It modifies the probability function of fluorescent emission. So what we did is measure this probability by measuring the time between the excitation and the emission using a pulsed laser. We repeated the measurement numerous time for each molecule in order to construct the probability. In the mean time we recorded the image on a very sensitive camera to locate the emitters with a super resolution. We developed our proof of concept by imaging a silver nanowire that exhibits a very high LDOS compared to the glass where it was sitting. It was smaller than the diffraction limit and we imaged it with a better, *super* resolution.
+
+![alt text](img/ldos.png"Silver nanowire LDOS")
