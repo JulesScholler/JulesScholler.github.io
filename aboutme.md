@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: And my interests
+image: /img/jules.jpg
 ---
 # About me
 
