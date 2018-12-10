@@ -1,4 +1,7 @@
 ---
+layout: page
+title:
+subtitle:
 ---
 
 # Mapping the LDOS with super-resolution
