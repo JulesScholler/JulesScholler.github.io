@@ -24,6 +24,9 @@ description: This website presents the work I've done during my PhD. It is not i
 # List of links in the navigation bar
 navbar-links:
   Home: "http://JulesScholler.github.io"
+  Projects:
+    - Predicting time arrow in videos: "timearrow"
+    - Automatic portrait pictures ranking: "regaind"
   Publications:
     - Mapping the LDOS with super-resolution: "ldosstorm"
     - BOE: ""
