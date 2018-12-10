@@ -4,4 +4,4 @@ title: ""
 subtitle: ""
 ---
 
-https://github.com/JulesScholler/MVA-Reports/blob/master/Report_REGAIND.pdf
+You can [get the PDF](/pdf/Report_REGAIND.pdf).
