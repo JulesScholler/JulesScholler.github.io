@@ -20,4 +20,8 @@ So you may be wondering what this super-resolution is about. In optics, and in a
 - near field
 - far field
 
-Remember that the diffraction limit arise because of the **propagation** of light. So if you probe the light before, or shortly after, it propagates, then you are no longer limited by the diffraction. The other set of methods, called *far field* uses some known properties to improve the resolution. 
+Remember that the diffraction limit arise because of the **propagation** of light. So if you probe the light before, or shortly after, it propagates, then you are no longer limited by the diffraction. The other set of methods, called *far field* uses some known properties to improve the resolution. In our project we used **S**tochastic **O**ptical **R**econstruction **M**icroscopy (STORM) which relies on the point spread function estimation. The diffraction transforms any point you try to image into some larger function that we call point spread function (because it spreads the point!). If you know the point spread function and you image something you know is a point (or a molecule which is so tiny that it can be considered a a point) then you can try to fit the function on the image. Then, because physics tells you that the point spread function is centered on the point, you can estimate the center and replace the point spread function by a point. The limitation is the number of photons collected, the less photons the more noise leading to uncertainty when you fit the point spread function.
+
+### Back to purpose
+
+
