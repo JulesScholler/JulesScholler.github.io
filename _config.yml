@@ -23,7 +23,7 @@ description: This website presents the work I've done during my PhD. It is not i
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "http://JulesScholler.github.io"
+  Home: "https://www.jscholler.com"
   Projects:
     - Predicting time arrow in videos: "pages/timearrow"
     - Automatic portrait pictures ranking: "pages/regaind"
