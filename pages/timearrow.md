@@ -2,7 +2,7 @@
 layout: page
 title: ""
 subtitle: "Predicting the arrow of time in videos"
-comment: true
+comments: true
 ---
 
 ### Project Summary
