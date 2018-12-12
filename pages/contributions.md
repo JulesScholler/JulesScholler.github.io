@@ -1,6 +1,7 @@
 ---
 layout: page
-subtitle: Scientific contributions
+title: ""
+subtitle: "Scientific contributions"
 ---
 
 # Publications:
