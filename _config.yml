@@ -28,6 +28,7 @@ navbar-links:
     - Predicting time arrow in videos: "pages/timearrow"
     - Automatic portrait pictures ranking: "pages/regaind"
   Publications:
+    - List of contributions: "pages/contributions"
     - Mapping the LDOS with super-resolution: "pages/ldosstorm"
   About: "pages/aboutme"
 
