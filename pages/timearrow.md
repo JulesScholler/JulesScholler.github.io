@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ""
-subtitle: "Predicting the arrow of time in videos"
+title: "Predicting the arrow of time in videos"
+subtitle: "A novel approach"
 comments: true
 ---
 
