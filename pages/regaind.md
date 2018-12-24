@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ""
-subtitle: "Ranking portrait pictures using AI"
+title: "Ranking portrait pictures using AI"
+subtitle: "Winner data challenges 2017"
 comments: true
 ---
 
