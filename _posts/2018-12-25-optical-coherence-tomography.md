@@ -37,4 +37,5 @@ If we sum these two waves we can have different results depending on the phase d
 
 On the left you have what we would call a constructive summation and on the left a destructive summation (it is also possible to obtain partial constructive summation). For this to work the two beams need to be coherent, which requires a coherent source of light and to be careful when designing the optical system. Traditional OCT (which I am not using, I will cover that in another post!) uses laser sources. The laser beam is splitted in two, one beam is sent inside the sample and the other one is reflected by a mirror. The idea is then to look at the coherent summation between the two beams, the trick is that only the light that was reflected inside the sample at a distance (the correct term would be the optical path length) that matches the distance with the mirror:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yHVU5-zMBNE?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
