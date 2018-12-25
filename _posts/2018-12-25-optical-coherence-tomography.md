@@ -10,6 +10,8 @@ My research focuses on using Optical Coherence Tomography (OCT) to image biologi
 
 ## What is the purpose of OCT
 
-OCT is an imaging technique used to acquire images in scattering samples with micrometer resolution. A scattering sample is a sample that interacts with light. We say that it scatters the light, meaning that, during the propagation of light inside the sample, the light will not travel straight but will be deviated (possibly multiple time. There is a famous example to explain this phenomenon, take a look on this picture.
+OCT is an imaging technique used to acquire images in scattering samples with micrometer resolution. A scattering sample is a sample that interacts with light. We say that it scatters the light, meaning that, during the propagation of light inside the sample, the light will not travel straight but will be deviated (possibly multiple time. There is a famous example to explain this phenomenon, take a look on the following picture:
+
+![Cloudy mountain](../img/cloud_mountain.jpg){: .center-image }
 
 
