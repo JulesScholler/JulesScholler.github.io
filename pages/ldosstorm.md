@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ""
-subtitle: "Mapping the LDOS with super-resolution"
+title: "Mapping the LDOS with super-resolution"
+subtitle: "Combining two cutting-edge methods"
 comments: true
 ---
 
