@@ -25,9 +25,13 @@ This is for this third case that OCT is useful, it can distinguish between multi
 
 ## How does it work?
 
-OCT can be thought as the optical version of ultrasound. In ultrasound imaging, an ultrasonic pulse is sent inside the medium, the sound propagates and might be reflected by different structures inside the medium. These reflections are recorded by the ultrasonic probe. For each detected echos the time between the emission and the reception is measured and converted into a distance (assuming constant velocity). By latteraly scanning it is then possible to reconstruct an image of the medium. It would be nice to be able to do the same with light but it is impossible. The speed of light is so fast that we can not measure accuratly the time between the emission and the reception. The idea is then to use a typical property of light: coherence. Lets consider that we have two light beam:
+OCT can be thought as the optical version of medical ultrasound. In ultrasound imaging, an ultrasonic pulse is sent inside the medium, the sound propagates and might be reflected by different structures inside the medium. These reflections are recorded by the ultrasonic probe. For each detected echos the time between the emission and the reception is measured and converted into a distance (assuming constant velocity). By latteraly scanning it is then possible to reconstruct an image of the medium. It would be nice to be able to do the same with light but it is impossible. The speed of light is so fast that we can not measure accuratly the time between the emission and the reception. The idea is then to use a typical property of light: coherence. Lets consider that we have two light beam:
 
-$$ S_1 = A_1 cos(wt+\phi_1) $$
+$$ S_1 = A_1 cos(wt+\phi_1) \\$$
 $$ S_2 = A_2 cos(wt+\phi_2) $$
 
+If we sum these two waves we can have different results depending on the phase difference $\Delta \phi = \phi_1 - \phi_2$. Two examples are shown on the following figure.
+
 ![Interferences with two waves](../img/interference_of_two_waves.png){: .center-image }
+
+On the left you have what we would call a constructive summation and on the left a destructive summation.
