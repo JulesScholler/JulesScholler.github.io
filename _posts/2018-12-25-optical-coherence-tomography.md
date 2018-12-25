@@ -12,7 +12,7 @@ My research focuses on using Optical Coherence Tomography (OCT) to image biologi
 
 OCT is an imaging technique used to acquire images in scattering samples with micrometer resolution. A scattering sample is a sample that interacts with light. We say that it scatters the light, meaning that, during the propagation of light inside the sample, the light will not travel straight but will be deviated (possibly multiple time. There is a famous example to explain this phenomenon, take a look at the following picture:
 
-![Cloudy mountain](../img/cloud_mountain.jpg){: .center-image }
+![Cloudy mountain](../img/clouds_mountain.jpg){: .center-image }
 
 we can distinguish 3 cases for the propagation of light:
 
