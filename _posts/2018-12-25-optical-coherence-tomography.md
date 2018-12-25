@@ -11,17 +11,17 @@ My research focuses on using Optical Coherence Tomography (OCT) to image biologi
 
 ## What is the purpose of OCT?
 
-OCT is an imaging technique used to acquire images in scattering samples with micrometer resolution. A scattering sample is a sample that interacts with light. We say that it scatters the light, meaning that, during the propagation of light inside the sample, the light will not travel straight but will be deviated (possibly multiple time. There is a famous example to explain this phenomenon, take a look at the following picture:
+OCT is an imaging technique used to acquire images in scattering samples with micrometer resolution. A scattering sample is a sample that interacts with light. We say that it scatters the light, meaning that, during the propagation of light inside the sample, the light will not travel straight but will be deviated (possibly multiple times). There is a famous example to highlight this phenomenon, take a look at the following picture:
 
 ![Cloudy mountain](../img/clouds_mountain.jpg){: .center-image }
 
 we can distinguish 3 cases for the propagation of light:
 
-1. Ballistic light, this light is not scattered even once. You can clearly see through and in order to image ballistic light you can use a basic camera.
+1. Ballistic light, this light is not scattered even once. You can clearly see the mountain. In order to image ballistic light you can use a basic camera.
 2. Single scattered light, this light as been scattered exactly once (on average). It is still possible to see through (because some photons are still not scattered, scattering is a random process!). In order to image in single scattering media it is still possible to use a basic camera and a little bit of post processing can do the trick to improve the image quality.
-3. Multiple scattered light, this light as been scattered multiple time and it is not possible to see through anymore with conventional imaging method.
+3. Multiple scattered light, this light as been scattered multiple times and it is not possible to see through anymore with conventional imaging method.
 
-This is for this third case that OCT is useful, it can distinguish between multiple scattered light and ballistic light. It can therefore extract only the ballistic light and allow us to image inside scattering media. The limit being the amount of light you collect that has not been scattered, which decreases with the imaging depth. There are several techniques to image inside scattering media, the best famous being ultrasound imaging. The main difference between ultrasound and OCT is the resolution, because ultrasound uses mechanical waves with greater wavelength, the resolution is around 1 millimeter, that is to say 1000 times higher than OCT (which has a micrometer resolution).
+This is for this third case that OCT is useful, it can distinguish between multiple scattered light and ballistic light. It can therefore extract only the ballistic light by filtering the multiple scattered light and allow us to image inside scattering media. The limit being the amount of light you collect that has not been scattered, which decreases with the imaging depth. There are several techniques to image inside scattering media, the best famous being mediacl ultrasound imaging. The main difference between ultrasound and OCT is the resolution, because ultrasound uses mechanical waves with greater wavelength, the resolution is around 1 millimeter, that is to say 1000 times higher than OCT (which has a micrometer resolution).
 
 ## How does it work?
 
@@ -35,4 +35,6 @@ If we sum these two waves we can have different results depending on the phase d
 
 ![Interferences with two waves](../img/interference_of_two_waves.png){: .center-image }
 
-On the left you have what we would call a constructive summation and on the left a destructive summation.
+On the left you have what we would call a constructive summation and on the left a destructive summation (it is also possible to obtain partial constructive summation). For this to work the two beams need to be coherent, which requires a coherent source of light and to be careful when designing the optical system. Traditional OCT (which I am not using, I will cover that in another post!) uses laser sources. The laser beam is splitted in two, one beam is sent inside the sample and the other one is reflected by a mirror. The idea is then to look at the coherent summation between the two beams, the trick is that only the light that was reflected inside the sample at a distance (the correct term would be the optical path length) that matches the distance with the mirror:
+
+
