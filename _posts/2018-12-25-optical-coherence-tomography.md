@@ -11,15 +11,15 @@ My research focuses on using Optical Coherence Tomography (OCT) to image biologi
 
 ## What is the purpose of OCT?
 
-OCT is an imaging technique used to acquire images in scattering samples with micrometer resolution (smaller than a hair!). A scattering sample is a sample that interacts with light, in the sens that, during the propagation of light inside it, the light will not travel straight but will be deviated (possibly multiple times). We can highlight this phenomenon with clouds, take a look at the following picture:
+OCT is an imaging technique used to acquire images in scattering samples with *micrometer resolution* (smaller than a hair!). A scattering sample is a sample that *interacts* with light, in the sens that, during the propagation of light inside it, the light will not travel straight but will be deviated (possibly multiple times). We can highlight this phenomenon with clouds, take a look at the following picture:
 
 ![Cloudy mountain](../img/clouds_mountain.jpg){: .center-image }
 
-we can distinguish 3 cases for the propagation of light:
+In this example we can distinguish 3 cases for the propagation of light:
 
-1. Ballistic light, this light is not scattered even once. You can clearly see the mountain. In order to image ballistic light you can use a basic camera.
-2. Single scattered light, this light as been scattered exactly once (on average). It is still possible to see through (because some photons are still not scattered, scattering is a random process!). In order to image in single scattering media it is still possible to use a basic camera and a little bit of post processing can do the trick to improve the image quality.
-3. Multiple scattered light, this light as been scattered multiple times and it is not possible to see through anymore with conventional imaging method.
+1. **Ballistic** light, this light is not scattered even once. You can clearly see the mountain. In order to image ballistic light you can use a basic camera.
+2. **Single scattered** light, this light as been scattered exactly once (on average). It is still possible to see through (because some photons are still not scattered, scattering is a random process!). In order to image in single scattering media it is still possible to use a basic camera and a little bit of post processing can do the trick to improve the image quality.
+3. **Multiple scattered** light, this light as been scattered multiple times and it is not possible to see through anymore with conventional imaging method.
 
 This is for this third case that OCT is useful, it can distinguish between multiple scattered light and ballistic light. It can therefore extract only the ballistic light by filtering the multiple scattered light and allow us to image inside scattering media. The limit being the amount of light you collect that has not been scattered, which decreases with the imaging depth. There are several techniques to image inside scattering media, the best famous being mediacl ultrasound imaging. The main difference between ultrasound and OCT is the resolution, because ultrasound uses mechanical waves with greater wavelength, the resolution is around 1 millimeter, that is to say 1000 times higher than OCT (which has a micrometer resolution).
 
