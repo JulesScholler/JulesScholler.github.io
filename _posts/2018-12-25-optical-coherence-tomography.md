@@ -41,4 +41,10 @@ On the left you have what we would call a constructive summation and on the left
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yHVU5-zMBNE?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
-This was the principle of time domain OCT, there are a lot of variants to increase the acquisition speed but the idea remaines the same.
+This was the explanation for time domain OCT, there are a lot of variants to increase the acquisition speed but the idea behind it remains the same.
+
+## Limitations of OCT
+
+The first limitation is the acquisition speed. If one wants high lateral resolution then it requires to perform small lateral shift so there is a trade off between the field on view and the resolution. Also, the optical properties of traditional OCT due to its design implies that the maximal lateral resolution (as opposed to its axial resolution) is bad. The low numerical aperture required to penetrate deep enough inside samples to reconstruct signals is limiting the axial resolution. Traditional OCT is therefore perfectly fitted when requiring high axial resolution and medium lateral resolution, that is why it is heavily used by ophtalmologists who want to see the different retina layer which are axialy spaced by only several micrometers.
+
+To overcome these limitations, our team at Institut Langevin developped the full field version of OCT, which I will cover in another post.
