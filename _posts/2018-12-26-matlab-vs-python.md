@@ -17,7 +17,9 @@ The first difference between Python and Matlab is setuping your environment. Wit
 - Scipy (optimization, linear algebra, integration, interpolation, special functions, FFT, signal processing)
 - Numpy (support for large, multi-dimensional arrays and matrices)
 - Matplotlib (plotting library)
+
 With this three previous libraries you can have the equivalent of a base Matlab. Then there are a lot of famous libraries (as opposed to Matlab toolboxes), the ones that I often use are:
+
 - Scikit-image (image processing)
 - Scikit-learn (machine learning)
 - Keras (deep learning)
