@@ -15,8 +15,6 @@ The objective of this challenge was to predict an aesthetic score for portrait p
 
 ## Methods
 
-The first step was to read a lot about art, pure art. When we understood what makes a good photo we started to code functions that could capture the properties that we just read about in portraits. You might think that beauty is easy but try to explain why a given photo is beautiful, it's an hard task. We are able to rate it, at least decide if it's a good shot or a bad one. We quickly learnt that it is way easier to capture a bad portrait, because there is a probleme with the lighting or there is blur and those features are easy to capture. The hard part of this project was to compare **beautiful** shots.
-
-We build for each portrait a feature vector and then we trained a SVM with a properly scaled Gaussian Kernel with these features.
+The first step was to read a lot about art, pure art. When we understood what makes a good photo we started to code functions that could capture the properties that we just read about in portraits. You might think that beauty is easy but try to explain why a given photo is beautiful, it's an hard task. We are able to rate it, at least decide if it's a good shot or a bad one. We quickly learnt that it is way easier to capture a bad portrait, because there is a probleme with the lighting or there is blur and those features are easy to capture. The hard part of this project was to compare **beautiful** shots. We build for each portrait a feature vector and then we trained a SVM with a properly scaled Gaussian Kernel with these features.
 
 Our code is available [here](https://github.com/JulesScholler/Regaind-ChallengesDATA).
