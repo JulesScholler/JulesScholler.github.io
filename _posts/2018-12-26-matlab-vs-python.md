@@ -9,6 +9,8 @@ At the beginning of my PhD I switched from Matlab to Python, here I'll explain w
 
 ## Why switching in the first place?
 
-To be honest I was very happy with Matlab (who would not when you know how much they charge!) but I decided to go full open source for my PhD (it's like being vegan but online!) because I think that we should spread our knowledge and projects in order for everyone to be able to use it. In the academic field more and more people are using Python and the more people are using it, the better it gets with more modules and libraries.
+To be honest I was very happy with Matlab (who would not when you know how much they charge!) but I decided to go full open source for my PhD (it's like being vegan but on-line!) because I think that we should spread our knowledge and projects in order for everyone to be able to use it. In the academic field more and more people are using Python and the more people are using it, the better it gets with more modules and libraries.
 
 ## About Python
+
+The first difference between Python and Matlab is setuping your environment. With Matlab it's easy (again, you pay for it!) you just download and install it. With Python there are numerous way to install and use it. For scientific development I would recommend to use an *IDE*. Personally I use **Spyder** because it has numerous features that I like (especially the variable explorer).
