@@ -18,12 +18,19 @@ The first difference between Python and Matlab is setuping your environment. Wit
 - Numpy (support for large, multi-dimensional arrays and matrices)
 - Matplotlib (plotting library)
 
-With this three previous libraries you can have the equivalent of a base Matlab. Then there are a lot of famous libraries (as opposed to Matlab toolboxes), the ones that I often use are:
+With this three previous libraries you can have the equivalent of a base Matlab. Then there are a lot of famous libraries (equivalent to Matlab toolboxes), the ones that I often use are:
 
 - Scikit-image (image processing)
 - Scikit-learn (machine learning)
 - Keras (deep learning)
 - Tensorflow (deep learning)
 - Trackpy (object tracking)
+- PyautoGUI (interaction with OS)
+
+## Pros
+
+Python is great as a whole programming language (it is its original purpose), there are keywords that do not have equivalent in Matlab (e.g 'in') that are very handy, especially when it comes to handle paths, files and directories.
+
+
 
 
