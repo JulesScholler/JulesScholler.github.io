@@ -2,6 +2,7 @@
 layout: post
 title: "Optical Coherence Tomography"
 subtitle: "Layperson's explanation"
+author: jules_scholler
 image: /img/oct-eye.jpg
 bigimg: /img/oct-eye.jpg
 show-avatar: false
