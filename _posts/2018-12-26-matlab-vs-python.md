@@ -2,6 +2,7 @@
 layout: post
 title: "Matlab vs Python"
 subtitle: "Open source is life"
+author: jules_scholler
 image: /img/matlab_vs_python.jpg
 ---
 
