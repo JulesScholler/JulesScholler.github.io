@@ -61,8 +61,18 @@
 		  {% endif %}
 		  
 		  {% if include.type == "post" %}
-		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
-		  {% endif %}
+			      <!-- Look the author details up from the site config. -->
+      {% assign author = site.data.authors[page.author] %}
+
+      <!-- Output author details if some exist. -->
+      {% if author %}
+        <span>
+          <!-- Personal Info. -->
+           <a href="{{ author.web }}" target="_blank">{{ author.name }} wrote this on {{ page.date | date: "%B %-d, %Y" }}</a>
+        </span>
+       {% else %}
+	  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+       {% endif %}
         </div>
       </div>
     </div>
