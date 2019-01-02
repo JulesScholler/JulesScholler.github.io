@@ -64,7 +64,7 @@
       	            {% assign author = site.data.authors[page.author] %}
                       {% if author %}
                         <span>
-                        <a href="{{ author.web }}" target="_blank">{{ author.name }} wrote this on {{ page.date | date: "%B %-d, %Y" }}</a>
+                        {{ author.name }} wrote this on {{ page.date | date: "%B %-d, %Y" }}
                         </span>
                       {% else %}
 	               <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
