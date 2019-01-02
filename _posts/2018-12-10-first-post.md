@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First post!
+author: jules_scholler
 image: /img/hello_world.jpeg
 ---
 
