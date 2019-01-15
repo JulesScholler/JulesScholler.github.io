@@ -8,6 +8,8 @@ title: "Scientific contributions"
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | D. Bouchet, **J. Scholler**, G. Blanquer, Y. De Wilde, I. Izeddin and V. Krachmalnicoff "Probing near-field light-matter interactions with single-molecule lifetime imaging", arXiv:1809.02778 (2018) |
 
+
+
 | Conference presentation                                                                                                                                                                                                                                                            |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | "Ultrahigh resolution imaging of cellular dynamics in explanted corneas and retinas with ocular pathologies using dynamic full-field OCT"; Proc. SPIE 10474, Ophthalmic Technologies XXVIII; O. Thouvenin; **J. Scholler**; A. C. Boccara; M. Paques; J. Sahel; M. Fink; K. Grieve |
@@ -15,6 +17,8 @@ title: "Scientific contributions"
 | "Imagerie dynamique cellulaire in vivo"; OptDiag 2018; L. Dutheil, **J. Scholler**, E. Benoit , C. Boccara                                                                                                                                                                         |
 | "Mapping the local density of states with single-molecule localisation microscopy"; European Optical Society Biennial Meeting (EOSAM) 2018; D. Bouchet; **J. Scholler**; G. Blanquer; Y. De Wilde; I. Izeddin; V. Krachmalnicoff                                                   |
 | "Methods and applications of quantitative dynamic full-field coherence tomography", QBI 2019, **J. Scholler**, K. Groux, C. Boccara, K. Grieve                                                                                                                                     |
+
+
 
 | Conference Posters                                                                                                                        |
 |-------------------------------------------------------------------------------------------------------------------------------------------|
