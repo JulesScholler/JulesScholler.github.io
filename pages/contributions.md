@@ -22,6 +22,6 @@ title: "Scientific contributions"
 
 | Conference Posters                                                                                                                        |
 |-------------------------------------------------------------------------------------------------------------------------------------------|
-| "Dynamic FF-OCT for imaging metabolism in cell cultures"; OptDiag 2018; **J. Scholler**, O. Thouvenin, K. Grieve, M. Fink and C. Boccara. |
+| "Dynamic FF-OCT for imaging metabolism in cell cultures"; OptDiag 2018; K. Groux, **J. Scholler**, O. Thouvenin, K. Grieve, M. Fink and C. Boccara. |
 | "Imagerie dynamique cellulaire in vivo"; OptDiag 2018; L. Dutheil, **J. Scholler**, E. Benoit , C. Boccara                                |
 | "Probing cells dynamics with quantitative Dynamic Full-Field OCT", QBI 2019, K. Groux, **J. Scholler**, K. Grieve, C. Boccara             |
