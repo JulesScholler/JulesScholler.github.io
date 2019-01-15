@@ -4,13 +4,14 @@ subtitle: ""
 title: "Scientific contributions"
 ---
 
+
 | Publications                                                                                                                                                                                      |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | D. Bouchet, **J. Scholler**, G. Blanquer, Y. De Wilde, I. Izeddin and V. Krachmalnicoff "Probing near-field light-matter interactions with single-molecule lifetime imaging", arXiv:1809.02778 (2018) |
 
+--
 
-
-| Conference presentation                                                                                                                                                                                                                                                            |
+| Conference Presentations                                                                                                                                                                                                                                                            |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | "Ultrahigh resolution imaging of cellular dynamics in explanted corneas and retinas with ocular pathologies using dynamic full-field OCT"; Proc. SPIE 10474, Ophthalmic Technologies XXVIII; O. Thouvenin; **J. Scholler**; A. C. Boccara; M. Paques; J. Sahel; M. Fink; K. Grieve |
 | "Dynamic full-field OCT for high resolution imaging of explanted corneas and retinas"; OptDiag 2018; **J. Scholler**, O. Thouvenin, K. Grieve, M. Fink and C. Boccara.                                                                                                             |
@@ -18,7 +19,7 @@ title: "Scientific contributions"
 | "Mapping the local density of states with single-molecule localisation microscopy"; European Optical Society Biennial Meeting (EOSAM) 2018; D. Bouchet; **J. Scholler**; G. Blanquer; Y. De Wilde; I. Izeddin; V. Krachmalnicoff                                                   |
 | "Methods and applications of quantitative dynamic full-field coherence tomography", QBI 2019, **J. Scholler**, K. Groux, C. Boccara, K. Grieve                                                                                                                                     |
 
-
+--
 
 | Conference Posters                                                                                                                        |
 |-------------------------------------------------------------------------------------------------------------------------------------------|
