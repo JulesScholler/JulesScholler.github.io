@@ -8,7 +8,7 @@ title: "Scientific contributions"
 | Publications                                                                                                                                                                                      |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | D. Bouchet, **J. Scholler**, G. Blanquer, Y. De Wilde, I. Izeddin and V. Krachmalnicoff "Probing near-field light-matter interactions with single-molecule lifetime imaging", arXiv:1809.02778 (2018) |
-| (https://www.osapublishing.org/boe/abstract.cfm?uri=boe-10-2-731)[**J. Scholler**, V. Mazlin, O. Thouvenin, K. Groux, P. Xiao, J. Sahel, M. Fink, C. Boccara, and K. Grieve, "Probing dynamic processes in the eye at multiple spatial and temporal scales with multimodal full field OCT," Biomed. Opt. Express 10, 731-746 (2019))]
+| **J. Scholler**, V. Mazlin, O. Thouvenin, K. Groux, P. Xiao, J. Sahel, M. Fink, C. Boccara, and K. Grieve, "Probing dynamic processes in the eye at multiple spatial and temporal scales with multimodal full field OCT," Biomed. Opt. Express 10, 731-746 (2019)]
 
 --
 
