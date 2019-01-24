@@ -7,7 +7,7 @@ comments: true
 
 This work was done during my research internship when I was in my third year at ESPCI. I worked with Dorian Bouchet under the supervision of Ignacio Izeddin.
 
-You can find our publication on [Arxiv](https://arxiv.org/abs/1809.02778).
+You can find our publication on [Arxiv](https://arxiv.org/abs/1809.02778) and [Optica](https://www.osapublishing.org/optica/abstract.cfm?uri=optica-6-2-135).
 
 ### Purpose
 
