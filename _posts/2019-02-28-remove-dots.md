@@ -6,12 +6,18 @@ author: jules_scholler
 image: /img/denoising.png
 ---
 
-## How to remove dust in direct OCT image?
+## Problem:
 
+It can happen that dust will stick on the reference miror leading to dark spot on direct images, as visible on the following movie (palissade of voigt in a human in vivo-cornea):
 
 ![Raw image](../img/raw.gif){: .center-image }
 
+## How to remove the dust:
+
 ![Denoised image](../img/denoised.gif){: .center-image }
+
+
+Here is the code I used to filter the image above (you need *numy*, *scikit-image* and *openCV* to run it):
 
 ```python
 import numpy as np
@@ -31,14 +37,17 @@ if 'raw' not in locals():
     raw = imread('raw.tif')
     raw_mean = np.sum(raw, axis =0)
     
+# Build a mask by thresholding
 t = (raw_mean > threshold_local(raw_mean, block_size=21, offset=1000)).astype('uint8')
-t = 1 - t
-t = opening(t, selem=diamond(1))
-t = dilation(t, selem=diamond(1))
+t = 1 - t # Inverse it
+t = opening(t, selem=diamond(1)) # Remove small detections
+t = dilation(t, selem=diamond(1)) # Make the detected area wider
 
+# Inpaint image using Navier-Stokes equation
 raw_denoised = np.zeros(raw.shape)
 for i in range(raw.shape[0]):
     raw_denoised[i] = cv2.inpaint(raw[i], t, 5, cv2.INPAINT_NS)
-    
+
+# Save results
 save_as_tiff(raw_denoised.astype('uint16'), 'denoised', resolution=(1,1))
 ```
