@@ -20,7 +20,6 @@ title: "Scientific contributions"
 | "Mapping the local density of states with single-molecule localisation microscopy"; European Optical Society Biennial Meeting (EOSAM) 2018; D. Bouchet; **J. Scholler**; G. Blanquer; Y. De Wilde; I. Izeddin; V. Krachmalnicoff                                                   |
 | "Methods and applications of quantitative dynamic full-field coherence tomography", QBI 2019, **J. Scholler**, K. Groux, C. Boccara, K. Grieve                                                                                                                                     
 | "Subcellular quantitative dynamic imaging: from metabolic activity to cell tracking of retinal and corneal structure", Photonics West 2019, **J. Scholler**, K. Groux, S. Reichman, M. Paques, O Goureau, J. Sahel, M. Fink, C. Boccara and K. Grieve
-|
 
 --
 
@@ -30,4 +29,3 @@ title: "Scientific contributions"
 | "Imagerie dynamique cellulaire in vivo"; OptDiag 2018; L. Dutheil, **J. Scholler**, E. Benoit , C. Boccara                                |
 | "Probing cells dynamics with quantitative Dynamic Full-Field OCT", QBI 2019, K. Groux, **J. Scholler**, K. Grieve, C. Boccara             |
 | "Dynamic full-field OCT for retinal cell classification", Photonics West 2019, **J. Scholler**, K. Groux, M. Fink, C. Boccara and K. Grieve
-|
