@@ -6,14 +6,14 @@ author: jules_scholler
 image: /img/denoising.png
 ---
 
-Test
+## How to remove dust in direct OCT image?
 
 
 ![Raw image](../img/raw.gif){: .center-image }
 
 ![Denoised image](../img/denoised.gif){: .center-image }
 
-```
+```python
 import numpy as np
 from skimage.io import imread
 from skimage.filters import threshold_local
