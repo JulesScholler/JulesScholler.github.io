@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Image denoising"
+title: "Image denoising using inpainting"
 subtitle: "Application to OCT dust removal"
 author: jules_scholler
 image: /img/denoising.png
