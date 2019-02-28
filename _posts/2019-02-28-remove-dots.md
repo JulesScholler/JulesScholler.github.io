@@ -8,16 +8,17 @@ image: /img/denoising.png
 
 ## Problem:
 
-It can happen that dust will stick on the reference miror leading to dark spot on direct images, as visible on the following movie (palissade of voigt in a human in vivo-cornea):
+It can happen that dust will stick on the reference mirror leading to dark spot on direct images, as visible on the following movie (palissade of voigt in a human in vivo-cornea, acquired by my fellow colleague Slava Mazlin):
 
 ![Raw image](../img/raw.gif){: .center-image }
 
 ## How to remove the dust:
 
+The first step is to threshold each frame. Because the lighting is not homogeneous I used an adaptive threshold where the threshold value is computed by taking into account the vicinity of the pixel (here $21\times21$ pixels). Then I filter the wrong detection based on the size by using morphological filters (typically it is single pixels so it is very easy to remove). Then the idea is to reconstruct the signal that was covered by the dust, which is called inpainting. To do that I propagate the information on the edge of each detected dust using Navier-Stokes equation, and tadaaa:
+
 ![Denoised image](../img/denoised.gif){: .center-image }
 
-
-Here is the code I used to filter the image above (you need *numy*, *scikit-image* and *openCV* to run it):
+Here is the code I used to filter the movie above (you need *numpy*, *scikit-image* and *openCV* to run it):
 
 ```python
 import numpy as np
