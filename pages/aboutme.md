@@ -3,6 +3,7 @@ layout: page
 title: About me
 subtitle: And my interests
 image: /img/jules.png
+bigimg: /img/sainte_victoire.jpg
 ---
 
 I am currently doing my PhD at *Institut Langevin* in Paris under the supervision of Mathias Fink, Claude Boccara and Kate Grieve. My main research interest is to improve the dynamic full-field optical coherence tomography and to be able to apply it for retinal imaging.
