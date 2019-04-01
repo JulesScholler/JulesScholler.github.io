@@ -1,0 +1,40 @@
+---
+layout: post
+title: "ARVO 2019"
+subtitle: "Conference in Vancouver, Canada"
+author: jules_scholler
+image: /img/arvo2019.jpg
+bigimg: /img/arvo2019.jpg
+show-avatar: false
+---
+
+[QBI conference](https://www.quantitativebioimaging.com/qbi2019/) is a bioimaging conference, centered on quantitative aspects of different imaging techniques. We presented our work during a 15 minutes presentation and with a poster.
+
+Here are some videos that completes the poster. **If you want to obtain original files without watermark for a presentation or a course, feel free to leave a comment or send a mail (mail icon in the footer)**.
+
+## Timelapse (in the same locked plane)
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/seZaHMkvCck" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+*Timelapse of a 26-day-old organoid during 3 hours*
+  
+<center>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/j3fpfTOdiro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+*Timelapse of a 29-day-old organoid during 3 hours*
+
+## Corneal wound healing
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JzvZyZEGIws?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+*Timelapse of a corneal wound healing on a retina*
+
+![Wound healing](../img/wound_healing.png){: .center-image }
+
+*Processed data: migration map velocity and direction - (a) Scheme of the cornea highlighting the layers - (b) Migration map with velocity colorcoded - (c) Migration map with the direction colorcoded*
+
