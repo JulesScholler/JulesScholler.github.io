@@ -5,9 +5,9 @@ subtitle: "Toward in vivo DFFOCT and deeper imaging"
 comments: true
 ---
 
-You can find my preprint on [arXiv](https://arxiv.org/abs/1904.00810).
+You can find our preprint on [arXiv](https://arxiv.org/abs/1904.00810).
 
-**D**ynamic **F**ull **F**ield **OCT** (DFFOCT) is very promising for 4D microscopy with diffraction limited resolution and also for eye imaging. In this paper I present two methods, (i) a **S**ingular **V**alue **D**ecomposition (SVD) based filtering method that automatically removes artifact arising from sample axial motion during the acquisition, and (ii) a new operator based on non-stationnarities to compute the dynamic in order to improve the **S**ignal to **N**oise **R**atio (SNR). While the first method is a great step toward in vivo DFFOCT imaging the second method allow deeper imaging in scattering media.
+**D**ynamic **F**ull **F**ield **OCT** (DFFOCT) is very promising for 4D microscopy with diffraction limited resolution and also for eye imaging. In this paper we present two methods, (i) a **S**ingular **V**alue **D**ecomposition (SVD) based filtering method that automatically removes artifact arising from sample axial motion during the acquisition, and (ii) a new operator based on non-stationnarities to compute the dynamic in order to improve the **S**ignal to **N**oise **R**atio (SNR). While the first method is a great step toward in vivo DFFOCT imaging the second method allow deeper imaging in scattering media.
 
 ## SVD filtering for motion artifact removal
 
@@ -19,7 +19,7 @@ So basically when we acquire a DFFOCT stack we end up with the summation of our 
 
 ### Proposed algorithm
 
-The first step is to unfold the 3D $M(x,y,t)$ cube of data into a 2D matrix $M_u(\boldsymbol{r},t)$ to perform the decomposition. Higher dimensions of SVD do exist but are not required here as the horizontal $x$ and vertical $y$ dimension do not differ when considering axial motion artifacts. SVD is the generalization of the eigendecomposition of a positive semidefinite normal matrix, and can be thought of as decomposing a matrix into a weighted, ordered sum of separable matrices which will become handy when reconstructing the denoised signals:
+In order to un-mix the artifactual signals we used the SVD. The first step is to unfold the 3D $M(x,y,t)$ cube of data into a 2D matrix $M_u(\boldsymbol{r},t)$ to perform the decomposition. Higher dimensions of SVD do exist but are not required here as the horizontal $x$ and vertical $y$ dimension do not differ when considering axial motion artifacts. SVD is the generalization of the eigendecomposition of a positive semidefinite normal matrix, and can be thought of as decomposing a matrix into a weighted, ordered sum of separable matrices which will become handy when reconstructing the denoised signals:
 
 $$ M_u = U\Sigma V^\star = \sum _ { i } \sigma _ { i } \mathbf { U } _ { i } \otimes \mathbf { V } _ { i } $$
 
