@@ -35,6 +35,8 @@ The denoised stack $\hat{M}_u$ can then be folded back to its original 3D shape 
 Applying the proposed method on clinical data taken on cancerous lung biopsies we show that it reduces effectively artifacts arising from highly reflective structures motion:
 
 ![SVD results 1](../img/svd_results.pdf){: .center-image }
+*(a)(d) Original DFFOCT images computed on the raw stack. (b)(e) Denoised images computed with SVD filtering. (c)(f) Sum of the spatial eigenvectors absolute value removed by the SVD filtering.*
 
 ## Cumulative sum for deeper imaging
+
 
