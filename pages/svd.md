@@ -38,6 +38,11 @@ $$ \hat{M}_u = \sum _ { i } \hat{\sigma _ { i }} \mathbf { U } _ { i } \otimes \
 
 The denoised stack $\hat{M}_u$ can then be folded back to its original 3D shape $\hat{M}$ and the dynamic computation can be performed. Interestingly, the use of an automatic selection of eigenvectors allow a more reproducible analysis. For example, the SVD can be performed on spatial sub-regions without visible artifacts, something very hard to obtain with manual selection of eigenvectors. This can also improve the filtering procedure in the case of sample spatial deformation or if the computation requires too much RAM. 
 
+### Results
+
+Applying the proposed method on clinical data taken on cancerous lung biopsies we show that it reduces effectively artifacts arising from highly reflective structures motion:
+
+![SVD results 1](../img/svd_results.pdf){: .center-image }
 
 ## Cumulative sum for deeper imaging
 
