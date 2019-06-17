@@ -41,16 +41,20 @@ Applying the proposed method on clinical data taken on cancerous lung biopsies w
 In addition to motion artifacts, a drawback of D-FFOCT compared to standard static FFOCT is the reduced penetration depth. While FFOCT can acquire images as deep as $1~mm$, D-FFOCT is limited to about $100~\mu m$ due to the weak signal level produced by the sample fluctuations we wish to measure. In order to enhance the dynamic signal strength and so improve penetration depth, we propose computation of the dynamic image from the cumulative sum of the signal, rather than the raw signal. Indeed, the model for the dynamic image formation is small scatterers moving in the coherence volume during the acquisition leading to phase and amplitude fluctuations in the conjugated camera pixel. While a pure Brownian motion is stationary, hyper-diffusive displacements are not and we therefore propose to use the cumulative sum to enhance these non-stationarities. Intuitively, summing a centered noise will give a noisy trajectory that stays close to zero whereas if there is a small bias it will be summed for every sample and the cumulative sum will therefore have a slope equal to this bias.
 
 Let us consider an array of random values drawn from a zero centered Gaussian distribution. If the number of samples is large the mean of the array will be close to zero and equivalently the sum of all the samples will also be close to zero. Taking the cumulative sum of such an array gives a so called *Brownian bridge* (the curve starts and ends close to zero and makes a "bridge" between these two points). Theoretically, Brownian bridges are expected to be maximal close to the edges as the probability distribution of the maximum is the third arcsin law which has a typical U-shape. More importantly, the Brownian bridge maximum follows a Rayleigh distribution. If we consider a Brownian bridge $W_s ~ \forall ~ s \in [0,1]$:
+
 $$ W_M=sup\{W_s:s\in [0,1]\} $$
 $$ \mathbb { P } [ W_M \leq u ] = 1 - e^{ - 2 u ^ { 2 }} $$
+
 where $W_M$ is the supremum of the bridge and $\mathbb { P } [ W_M \leq u ]$ is the probability of the supremum being less than $u$. According to the Rayleigh distribution, the Brownian bridge maximum must therefore scale as $\sqrt{t}$ with $t$ scaling as the number of frames. Now, if there is a bias in the distribution, which is the case if a scatterer is moving with constant velocity in the coherence volume, the cumulative sum will scale as $\frac{t}{2}$ due to the slope introduced by the bias. It will also be either always positive or negative and the maximum will be reached around the center of the bridge. The cumulative sum will therefore exhibit a completely different behavior for centered noise than for actual motility signals, leading to a better signal to noise ratio on dynamic images. Note that for Brownian bridges it is often observed that the function changes sign regularly (the probability of sign changes is also well established, which is not the case when there are non-stationarities.
 
 ### Results
 
 The dynamic image is computed by taking the average of the maxima of the absolute values of the running cumulative sum:
+
 $$
     I'_{dyn}(\boldsymbol{r}) =\frac{1}{N} \sum_i max\left(|CumSum\left(I(\boldsymbol{r},t_{[i, i+\tau]})-\bar{I}(\boldsymbol{r},t_{[i, i+\tau]})\right)|\right)
 $$
+
 where $CumSum$ is the cumulative sum operator, $N$ is the total number of sub-windows, $\tau$ is the sub-windows length so that $t_{[i,i+\tau]}$ is the time corresponding to one sub-window and $\bar{I}(\boldsymbol{r},t_{[i, i+\tau]})$ is the signal mean on the sub-window. We tested the proposed method with $\tau=50$ on the photoreceptor layer of an explanted macaque retina at $85~\mu m$ depth that presents a horizontal gradient of SNR.
 
 ![CumSum results 1](../img/cumsum_results.pdf){: .center-image }
