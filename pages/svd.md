@@ -7,15 +7,15 @@ comments: true
 
 You can find our preprint on [arXiv](https://arxiv.org/abs/1904.00810).
 
-**D**ynamic **F**ull **F**ield **OCT** (DFFOCT) is very promising for 4D microscopy with diffraction limited resolution and also for eye imaging. In this paper we present two methods, (i) a **S**ingular **V**alue **D**ecomposition (SVD) based filtering method that automatically removes artifact arising from sample axial motion during the acquisition, and (ii) a new operator based on non-stationnarities to compute the dynamic in order to improve the **S**ignal to **N**oise **R**atio (SNR). While the first method is a great step toward in vivo DFFOCT imaging the second method allow deeper imaging in scattering media.
+**D**ynamic **F**ull **F**ield **OCT** (D-FFOCT) is very promising for 4D microscopy with diffraction limited resolution and also for eye imaging. In this paper we present two methods, (i) a **S**ingular **V**alue **D**ecomposition (SVD) based filtering method that automatically removes artifact arising from sample axial motion during the acquisition, and (ii) a new operator based on non-stationnarities to compute the dynamic image in order to improve the **S**ignal to **N**oise **R**atio (SNR). While the first method is a great step toward in vivo D-FFOCT imaging the second method allow deeper imaging in scattering media. Finally we report on the first in vivo dynamic acquisition on a living mouse liver.
 
 ## SVD filtering for motion artifact removal
 
 ### Theoretical considerations
 
-One drawback of DFFOCT lies in its main advantage, it has a nanometer sensitivity. This means that the slightest mechanical vibration will cause a temendous signal variation compared to the typical probed fluctuations. Indeed, the static sample reflexion coefficient is typical two order of magnitude higher than the metabolic fluctuation. This means that mechanical vibration can bury the signal of interests under high artifacts. This was is an issue in the lab because the setup is mounted on a sturdy optical bench that filter out most of the vibrations. Problems arise when clinicians try to use such system in very noisy environment and for in vivo imaging when these artifacts need to be filtered out in order to retrieve the metabolic image. 
+One drawback of DFFOCT lies in its main advantage, it has a nanometer sensitivity. This means that the slightest mechanical vibration will cause a tremendous signal variation compared to the typical probed fluctuations. Indeed, the static sample reflexion coefficient is typically two order of magnitude higher than the metabolic fluctuations. This means that mechanical vibration can bury the signal of interests under high artifacts. This was not really an issue in the lab because the setup is mounted on a sturdy optical bench that filter out most of the vibrations. Problems arise when clinicians try to use such system in very noisy environment (mechanical vibrations, air conditionning, etc.) and for in vivo imaging. Therefore, these artifacts need to be filtered out in order to retrieve the metabolic image. 
 
-So basically when we acquire a DFFOCT stack we end up with the summation of our signal of interest *- which is very small-* and the signals arising from motion artifacts *- which is typicaly very strong -*. Our goal is then to separate those two contributions in order to retrieve only the dynamic.
+So basically when we acquire a DFFOCT stack we end up with the summation of our signal of interest *- which is very small-* and the signals arising from motion artifacts *- which is typicaly very strong -*. Our goal is then to separate those two contributions in order to retrieve only the motility term.
 
 ### Proposed algorithm
 
