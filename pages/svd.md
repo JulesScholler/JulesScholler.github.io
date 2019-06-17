@@ -50,9 +50,9 @@ where $W_M$ is the supremum of the bridge and $\mathbb { P } [ W_M \leq u ]$ is 
 ### Results
 
 The dynamic image is computed by taking the average of the maxima of the absolute values of the running cumulative sum:
-\begin{align}
+$$
     I'_{dyn}(\boldsymbol{r}) =\frac{1}{N} \sum_i max\left(|CumSum\left(I(\boldsymbol{r},t_{[i, i+\tau]})-\bar{I}(\boldsymbol{r},t_{[i, i+\tau]})\right)|\right)
-\end{align}
+$$
 where $CumSum$ is the cumulative sum operator, $N$ is the total number of sub-windows, $\tau$ is the sub-windows length so that $t_{[i,i+\tau]}$ is the time corresponding to one sub-window and $\bar{I}(\boldsymbol{r},t_{[i, i+\tau]})$ is the signal mean on the sub-window. We tested the proposed method with $\tau=50$ on the photoreceptor layer of an explanted macaque retina at $85~\mu m$ depth that presents a horizontal gradient of SNR.
 
 ![CumSum results 1](../img/cumsum_results.pdf){: .center-image }
