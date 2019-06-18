@@ -33,7 +33,7 @@ The SVD-denoised stack $\hat{M}_u$ can then be folded back to its original 3D sh
 
 Applying the proposed method on clinical data taken on cancerous lung biopsies we show that it reduces effectively artifacts arising from highly reflective structures motion:
 
-![SVD results 1](../img/svd_results.pdf){: .center-image }
+![SVD results 1](../img/svd_results.png){: .center-image }
 *Lung biopsy for cancer detection taken on the LLTech clinical setup. Artifacts arise mainly from mechanical vibration and air conditioning. (a)(d) Original D-FFOCT images computed on the raw stack. (b)(e) Denoised images computed with SVD filtering. (c)(f) Sum of the spatial eigenvectors absolute value removed by the SVD filtering. Red arrows are highlighting cells that were partially masked by motion artifacts.*
 
 ## Cumulative sum for deeper imaging
@@ -58,5 +58,5 @@ $$
 
 where $CumSum$ is the cumulative sum operator, $N$ is the total number of sub-windows, $\tau$ is the sub-windows length so that $t_{[i,i+\tau]}$ is the time corresponding to one sub-window and $\bar{I}(\boldsymbol{r},t_{[i, i+\tau]})$ is the signal mean on the sub-window. We tested the proposed method with $\tau=50$ on the photoreceptor layer of an explanted macaque retina at $85~\mu m$ depth that presents a horizontal gradient of SNR.
 
-![CumSum results 1](../img/cumsum_results.pdf){: .center-image }
+![CumSum results 1](../img/cumsum_results.png){: .center-image }
 *(a) Simulation of Gaussian noise with and without bias and their cumulative sum. The maximum reached by the cumulative sum is 3 times higher with the bias. (b) Dynamic image of a macaque photoreceptor layer using standard deviation. (c) Dynamic image of a macaque photoreceptor layer using the proposed method based on cumulative sum. (d) Histogram of SNR for 192 single cells segmented in (b) and (c). Segmentation results are shown in the top right corner. The gain in SNR for this data set is 1.96 on average for each cell.*
