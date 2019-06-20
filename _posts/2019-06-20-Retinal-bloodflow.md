@@ -11,6 +11,7 @@ show-avatar: true
 
 ![Retinal bloodflow](../img/retinal_bloodflow.gif){: .center-image }
 
+#### References
 
 [1] L. Puyo, M. Paques, M. Fink, J.-A. Sahel, and M. Atlan, "In vivo laser Doppler holography of the human retina," Biomed. Opt. Express 9, 4113-4129 (2018)
 
