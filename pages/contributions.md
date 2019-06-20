@@ -10,6 +10,7 @@ title: "Scientific contributions"
 | D. Bouchet, **J. Scholler**, G. Blanquer, Y. De Wilde, I. Izeddin, and V. Krachmalnicoff, "Probing near-field light–matter interactions with single-molecule lifetime imaging," Optica 6, 135-138 (2019)) |
 | **J. Scholler**, V. Mazlin, O. Thouvenin, K. Groux, P. Xiao, J. Sahel, M. Fink, C. Boccara, and K. Grieve, "Probing dynamic processes in the eye at multiple spatial and temporal scales with multimodal full field OCT," Biomed. Opt. Express 10, 731-746 (2019) |
 | **J. Scholler**, "Motion artifact removal and signal enhancement to achieve in vivo dynamic full field OCT", arXiv:1904.00810 (2019) |
+| **J. Scholler**, "FFOCT: control and acquisition software", 10.5281/zenodo.3137246 [![DOI](https://zenodo.org/badge/111929339.svg)](https://zenodo.org/badge/latestdoi/111929339) |
 
 --
 
