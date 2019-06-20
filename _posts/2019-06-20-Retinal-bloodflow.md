@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My retinal bloodflow"
-subtitle: "Laser doppler holography by Leo Puyo"
+subtitle: "Laser doppler holography by Léo Puyo"
 author: jules_scholler
 image: /img/retinal_bloodflow.png
 show-avatar: true
