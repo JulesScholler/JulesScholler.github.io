@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "My retinal bloodflow"
+title: "My retinal blood flow"
 subtitle: "Laser doppler holography by Léo Puyo"
 author: jules_scholler
 image: /img/retinal_bloodflow.png
 show-avatar: true
 ---
 
-
+Léo Puyo, a third year PhD student working in my team, developed a new technique based on holography called *L*aser *D*oppler *H*olography (LDH) and he is able to produce stunning movies of the retinal blood flow. A popular technique already exists for imaging of the retinal vasculature called *O*ptical *C*oherence *T*omography *A*ngiography (OCTA). With this method, clinicians are able to map the retinal vasculature in 3D. The only drawback being that t
 
 ![Retinal bloodflow](../img/retinal_bloodflow.gif){: .center-image }
 
