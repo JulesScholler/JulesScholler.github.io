@@ -11,6 +11,7 @@ title: "Scientific contributions"
 | **J. Scholler**, V. Mazlin, O. Thouvenin, K. Groux, P. Xiao, J. Sahel, M. Fink, C. Boccara, and K. Grieve, "Probing dynamic processes in the eye at multiple spatial and temporal scales with multimodal full field OCT," Biomed. Opt. Express 10, 731-746 (2019) |
 | **J. Scholler**, "Motion artifact removal and signal enhancement to achieve in vivo dynamic full field OCT", arXiv:1904.00810 (2019) |
 | **J. Scholler**, "FFOCT: control and acquisition software", [![DOI](https://zenodo.org/badge/111929339.svg)](https://zenodo.org/badge/latestdoi/111929339) |
+| H. Hogan, "Computational Imaging Builds Better Pictures", [![Photonics](https://www.photonics.com/Articles/Computational_Imaging_Builds_Better_Pictures/a64592)|
 
 --
 
