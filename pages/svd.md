@@ -5,7 +5,7 @@ subtitle: "Toward in vivo DFFOCT and deeper imaging"
 comments: true
 ---
 
-You can find our preprint on [arXiv](https://arxiv.org/abs/1904.00810).
+You can find our preprint on [Optics Express](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-27-14-19562).
 
 **D**ynamic **F**ull **F**ield **OCT** (D-FFOCT) is very promising for 4D microscopy with diffraction limited resolution and also for eye imaging. In this paper we present two methods, (i) a **S**ingular **V**alue **D**ecomposition (SVD) based filtering method that automatically removes artifact arising from sample axial motion during the acquisition, and (ii) a new operator based on non-stationnarities to compute the dynamic image in order to improve the **S**ignal to **N**oise **R**atio (SNR). While the first method is a great step toward in vivo D-FFOCT imaging the second method allow deeper imaging in scattering media. Finally we report on the first in vivo dynamic acquisition on a living mouse liver.
 
