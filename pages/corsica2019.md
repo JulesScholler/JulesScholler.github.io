@@ -10,15 +10,16 @@ We have done this trip in October 2019 with a colleague after a summer school in
 
 ## Day 1: *Restonica Valley* to *Refuge de la Sega*
 
-We started the first day around 10:30 from the *Bergerie de Grotelle*. It took us 6h to arrive at Refuge de la Sega.
-
+We started the first day around 10:30 from the *Bergerie de Grotelle*. It took us 6h to arrive at Refuge de la Sega. We started the first day around 10:30 from the *Bergerie de Grotelle*. It took us 6h to arrive at Refuge de la Sega. Hike description are summarized in the table below.
 
 | Distance [km] | Total Ascent [m] | Total Descent [m] |
 | :-------------: |:-------------:| :-----:|
 | 14.1 | 731 | 939 |
 
+The path we took is represented below on the IGN map.
 ![Day1 map](../img/corsica2019/day1_map.png){: .center-image }
 
+The elevation curve is shown below.
 ![Day1 elevation](../img/corsica2019/day1_elevation.jpg){: .center-image }
 
 
@@ -29,8 +30,10 @@ We started the first day around 10:30 from the *Bergerie de Grotelle*. It took u
 | :-------------: |:-------------:| :-----:|
 | 18.6 | 1362 | 706 |
 
+The path we took is represented below on the IGN map.
 ![Day2 map](../img/corsica2019/day2_map.jpg){: .center-image }
 
+The elevation curve is shown below.
 ![Day2 elevation](../img/corsica2019/day2_elevation.jpg){: .center-image }
 
 
@@ -41,6 +44,8 @@ We started the first day around 10:30 from the *Bergerie de Grotelle*. It took u
 | :-------------: |:-------------:| :-----:|
 | 8.8 | 441 | 881 |
 
+The path we took is represented below on the IGN map.
 ![Day3 map](../img/corsica2019/day3_map.jpg){: .center-image }
 
+The elevation curve is shown below.
 ![Day3 elevation](../img/corsica2019/day3_elevation.jpg){: .center-image }
