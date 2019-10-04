@@ -4,4 +4,5 @@ title: Hiking
 bigimg: /img/sainte_victoire.jpg
 ---
 
-To be done.
+Below is a set of my favorites hikes:
+- [3 days in Corsica](https://www.jscholler.com/pages/corsica2019.md)
