@@ -29,7 +29,7 @@ We started the first day around 10:30 from the *Bergerie de Grotelle*. It took u
 | :-------------: |:-------------:| :-----:|
 | 18.6 | 1362 | 706 |
 
-![Day2 map](../img/corsica2019/day2_map.png){: .center-image }
+![Day2 map](../img/corsica2019/day2_map.jpg){: .center-image }
 
 ![Day2 elevation](../img/corsica2019/day2_elevation.jpg){: .center-image }
 
@@ -41,6 +41,6 @@ We started the first day around 10:30 from the *Bergerie de Grotelle*. It took u
 | :-------------: |:-------------:| :-----:|
 | 8.8 | 441 | 881 |
 
-![Day3 map](../img/corsica2019/day3_map.png){: .center-image }
+![Day3 map](../img/corsica2019/day3_map.jpg){: .center-image }
 
 ![Day3 elevation](../img/corsica2019/day3_elevation.jpg){: .center-image }
