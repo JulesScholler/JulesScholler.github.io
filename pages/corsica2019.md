@@ -29,6 +29,8 @@ We started the first day around 10:30 from the *Bergerie de Grotelle*. It took u
 | :-------------: |:-------------:| :-----:|
 | 18.6 | 1362 | 706 |
 
+-
+
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mZZa2ROloSM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
@@ -40,6 +42,8 @@ We started the first day around 10:30 from the *Bergerie de Grotelle*. It took u
 | Distance [km] | Total Ascent [m] | Total Descent [m] |
 | :-------------: |:-------------:| :-----:|
 | 8.8 | 441 | 881 |
+
+-
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZQVBFwQg758" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
