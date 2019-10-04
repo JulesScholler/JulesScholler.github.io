@@ -8,16 +8,19 @@ bigimg: /img/sainte_victoire.jpg
 ## Day 1: *Restonica Valley* to *Refuge de la Sega*
 
 | Distance [km] | Total Ascent [m] | Total Descent [m] |
-| ------------- |-------------:| -----:|
+| :-------------: |:-------------:| :-----:|
 | 14.1 | 731 | 939 |
 
+![Day1 map](../img/corsica2019/day1_map.png){: .center-image }
+
+![Day1 elevation](../img/corsica2019/day1_elevation.jpg){: .center-image }
 
 
 
 ## Day 2: *Refuge de la Sega* to *Refuge de Manganu* to *Refuge de Pietra Piana*
 
 | Distance [km] | Total Ascent [m] | Total Descent [m] |
-| ------------- |-------------:| -----:|
+| :-------------: |:-------------:| :-----:|
 |  |  |  |
 
 
@@ -27,5 +30,5 @@ bigimg: /img/sainte_victoire.jpg
 ## Day 3: *Refuge de Pietra Piana* to *Restonica Valley*
 
 | Distance [km] | Total Ascent [m] | Total Descent [m] |
-| ------------- |-------------:| -----:|
+| :-------------: |:-------------:| :-----:|
 |  |  |  |
