@@ -8,7 +8,7 @@ bigimg: /img/corsica2019/pietra_piana.jpg
 We have done this trip in October 2019 with a colleague after a summer school in Corsica. It is a 3 days hike in the very center of the island. In order to get there you will need a car and go to Corte, then take the D623 to the end of the Restonica Valley where you can park (6€/day). Our idea was to make a loop from the Valley to explore the surroundings, which are wonderful, see below for more details.
 
 The maps for each day along with the corresponding elevation maps are shown below.
-![Day1 map](../img/corsica2019/day1_map.png){: .center-image }
+![Day1 map](../img/corsica2019/map_and_elevation.png){: .center-image }
 
 ## Day 1: *Restonica Valley* to *Refuge de la Sega*
 
