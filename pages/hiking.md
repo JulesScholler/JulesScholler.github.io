@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hiking
-bigimg: /img/sainte_victoire.jpg
+bigimg: /img/corsica2019/pietra_piana.jpg
 ---
 
 Below is a set of my favorites hikes:
