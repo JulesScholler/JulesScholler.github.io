@@ -2,7 +2,7 @@
 layout: page
 title: 3 days in Corsica
 subtitle: Between Mare a Mare north and GR20
-bigimg: /img/sainte_victoire.jpg
+bigimg: /img/corsica2019/pietra_piana.jpg
 ---
 
 ## Day 1: *Restonica Valley* to *Refuge de la Sega*
