@@ -36,7 +36,9 @@ The path we took is represented below on the IGN map.
 The elevation curve is shown below.
 ![Day2 elevation](../img/corsica2019/day2_elevation.jpg){: .center-image }
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mZZa2ROloSM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 
 
