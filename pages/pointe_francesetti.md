@@ -11,6 +11,8 @@ We started the ascent from *Refuge des Evettes* in order to save time (the goal 
 
 From *Refuge des Evettes* to *Pointe Francesetti* the details are shown below. It took us 4h to reach the summit, we took our time to enjoy the amazing landscapes and to put on the crampons on the Glacier.
 
+![Day1 map](../img/corsica2019/map_and_elevation.png){: .center-image }
+
 | Distance [km] | Total Ascent [m] | Total Descent [m] |
 | :-------------: |:-------------:| :-----:|
 | 6.6 | 984 | 128 |
