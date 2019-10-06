@@ -12,7 +12,7 @@ The maps for each day along with the corresponding elevation maps are shown belo
 
 ## Day 1: *Restonica Valley* to *Refuge de la Sega*
 
-We started the first day around 10:30 from the *Bergerie de Grotelle*. It took us 6h to arrive at Refuge de la Sega. We started the first day around 10:30 from the *Bergerie de Grotelle*. It took us 6h to arrive at Refuge de la Sega. Hike description are summarized in the table below.
+We started the first day around 10:30 from the *Bergerie de Grotelle*. It took us 6h to arrive at Refuge de la Sega. We started the first day around 10:30 from the *Bergerie de Grotelle*. It took us 6h to arrive at Refuge de la Sega. Hike description is summarized in the table below.
 
 | Distance [km] | Total Ascent [m] | Total Descent [m] |
 | :-------------: |:-------------:| :-----:|
@@ -24,6 +24,8 @@ We started the first day around 10:30 from the *Bergerie de Grotelle*. It took u
 
 
 ## Day 2: *Refuge de la Sega* to *Refuge de Manganu* to *Refuge de Pietra Piana*
+
+We started around 8:30 the second day after a gourmet breakfast (which lead to carrying much less weight on our backs!). We arrived around 11:30 at *Refuge de Manganu*, we had lunch there and went for *Refuge de Pietra Piana* where we arrived around 18:00. This day was quite hard, especially the afternoon as the terrain surface was very rough. There was a consistent need for hands in order to progress and climb up to *Brèche de Sorbo* and *Col de Rinoso*. Hike description is summarized in the table below.
 
 | Distance [km] | Total Ascent [m] | Total Descent [m] |
 | :-------------: |:-------------:| :-----:|
