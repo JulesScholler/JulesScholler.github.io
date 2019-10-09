@@ -12,12 +12,14 @@ The maps for each day along with the corresponding elevation maps are shown belo
 
 ## Day 1: *Restonica Valley* to *Refuge de la Sega*
 
-We started the first day around 10:30 from the *Bergerie de Grotelle*. It took us 6h to arrive at Refuge de la Sega. We started the first day around 10:30 from the *Bergerie de Grotelle*. It took us 6h to arrive at Refuge de la Sega. Hike description is summarized in the table below.
+We started the first day around 10:30 from the *Bergerie de Grotelle*. It took us 6h to arrive at Refuge de la Sega (including 1h lounch in the woods). It took us 6h to arrive at Refuge de la Sega. Hike description is summarized in the table below. This part was easy, no technical difficulty and the view is amazing throughout the hike.
+
 
 | Distance [km] | Total Ascent [m] | Total Descent [m] |
 | :-------------: |:-------------:| :-----:|
 | 14.1 | 731 | 939 |
 
+-
 
 
 
@@ -41,7 +43,7 @@ We started around 8:30 the second day after a gourmet breakfast (which lead to c
 
 ## Day 3: *Refuge de Pietra Piana* to *Restonica Valley*
 
-For this last day we started 9:00 and it took us 5h to finish. There is a very technical passage before coming down to *Capitello Lake* where you need to downclimb around 100m in a **very steep** slope (like 70°). I would not recommend attempting it if you are not comfortable with height or if you backpack is heavy (also if there is too much wind or if the ground is wet), each year several hikers die in this area. It is possible to turn before and directly go to *Melo Lake*, whithout any technical difficulties.
+For this last day we started 9:00 and it took us 5h to finish. There is a very technical passage before coming down to *Capitello Lake* where you need to down-climb around 100m in a **very steep** slope (like 70°). I would not recommend attempting it if you are not comfortable with height or if you backpack is heavy (also if there is too much wind or if the ground is wet), each year several hikers die in this area. It is possible to turn before and directly go to *Melo Lake*, without any technical difficulties.
 
 | Distance [km] | Total Ascent [m] | Total Descent [m] |
 | :-------------: |:-------------:| :-----:|
