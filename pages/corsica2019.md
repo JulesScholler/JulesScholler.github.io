@@ -12,7 +12,7 @@ The maps for each day along with the corresponding elevation maps are shown belo
 
 ## Day 1: *Restonica Valley* to *Refuge de la Sega*
 
-We started the first day around 10:30 from the *Bergerie de Grotelle*. It took us 6h to arrive at Refuge de la Sega (including 1h lounch in the woods). It took us 6h to arrive at Refuge de la Sega. Hike description is summarized in the table below. This part was easy, no technical difficulty and the view is amazing throughout the hike.
+We started the first day around 10:30 from the *Bergerie de Grotelle*. It took us 6h to arrive at Refuge de la Sega (including 1h lounch in the woods). Hike description is summarized in the table below. This first part was easy, no technical difficulty and the view is amazing throughout the hike. The *refuge* is very comfortable with running hot water and restrooms. The prices are fixed by the Corsica national park agency (14€/person/night inside and 7€/person/night outside in a tent). The good thing is that their is gas and camp stove available for cooking.
 
 
 | Distance [km] | Total Ascent [m] | Total Descent [m] |
@@ -20,7 +20,9 @@ We started the first day around 10:30 from the *Bergerie de Grotelle*. It took u
 | 14.1 | 731 | 939 |
 
 -
-
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vSDAuAjOhz4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 
 
