@@ -3,6 +3,7 @@ layout: page
 title: 3 days in Corsica
 subtitle: Between Mare a Mare north and GR20
 bigimg: /img/corsica2019/pietra_piana.jpg
+comments: true
 ---
 
 We have done this trip in October 2019 with a colleague after a summer school in Corsica. It is a 3 days hike in the very center of the island. In order to get there you will need a car and go to Corte, then take the D623 to the end of the Restonica Valley where you can park (6€/day). Our idea was to make a loop from the Valley to explore the surroundings, which are wonderful, see below for more details.
