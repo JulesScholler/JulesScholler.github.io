@@ -3,6 +3,7 @@ layout: page
 title: Pointe Francesetti
 subtitle: Glacier du grand Méant
 bigimg: /img/pointe_francesetti/pointe_francesetti.jpg
+comments: true
 ---
 
 We have done this trip in August 2019 during summer holidays. It is a 2 days hike in the French Alps.
