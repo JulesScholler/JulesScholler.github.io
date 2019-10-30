@@ -16,7 +16,7 @@ On the contrary, LDH has a very high temporal resolution (the camera is working 
 
 #### Experimental setup
 
-![Holography setup(../img/holography_setup.png){: .center-image }
+![Holography setup](../img/holography_setup.png){: .center-image }
 *Laser Doppler holography optical setup. L1, L2 and L3 are converging lenses. PBS:
 Polarizing Beam-Splitter. BS: Beam-Splitter. The light source is a single wavelength laser
 diode (SWL-7513-H-P, Newport). The Doppler broadened light backscattered by the retina
