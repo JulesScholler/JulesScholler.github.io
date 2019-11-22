@@ -24,3 +24,10 @@ $$ l_c \sim \frac{\lambda}{\delta \lambda^2} $$
 Using phase-shifting strategies to remove background light coming from out-of-coherence layers we can reconstruct *en-face* images of the sample. Now, if instead of taking an image we record a movie, we can measure the fluctuations in each pixel and construct dynamic images. On these dynamic images it is possible to locate cells, for each cell it is possible to extract the raw fluctuation signals. By concatenating the raw signals contain in a single cell we can generate a song.
 
 ## How to go from several images to an actual song?
+
+So the first step is to compute the image by computing the amplitude of fluctuations in each pixel during the movie, see the example below.
+
+INSERT MOUSE GCL GANGLION CELL LAYER HERE
+*Dynamic image of a mouse retina (ganglion cell layer)*
+
+Then we need segment cells, that is to say we need to find the pixel belonging to each cell. To do that there are a bunch of algorithm and I used a machine learning approach, see segmentation results below.
