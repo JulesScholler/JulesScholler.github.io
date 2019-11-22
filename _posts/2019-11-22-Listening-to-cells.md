@@ -17,4 +17,6 @@ The technique used to probe the signals is **D**ynamic **F**ull-**F**ield **O**p
 
 INSERT FIG HERE
 
-The idea behind **O**ptical **C**oherence **T**omography (OCT) is the same as ultrasound imaging, the main difference being that it is not possible to generate and measure pulses in optics hence listen to light echoes. Therefore we need a smart way to discriminate light coming from several layers inside the sample. With OCT the smart idea is to generate interferences in the layer we aim to image. If you are not familiar with this you can learn more on OCT [here](https://www.jscholler.com/2019-01-28-ffoct/).
+The idea behind **O**ptical **C**oherence **T**omography (OCT) is the same as ultrasound imaging, the main difference being that it is not possible to generate and measure pulses in optics hence listen to light echoes. Therefore we need a smart way to discriminate light coming from several layers inside the sample. With OCT the smart idea is to generate interferences in the layer we aim to image. If you are not familiar with this you can learn more on OCT [here](https://www.jscholler.com/2019-01-28-ffoct/). In the figure above, the light coming from the reference will only interfere with the layer in the sample matching the optical path length, on the width given by the coherence length which is given by the source properties. For a Gaussian source the coherence length depends on the wavelength and bandwidth:
+
+$$ l_c \sim \frac{\lambda}{\delta \lambda^2} $$
