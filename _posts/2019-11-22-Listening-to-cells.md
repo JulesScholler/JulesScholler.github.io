@@ -17,6 +17,10 @@ The technique used to probe the signals is **D**ynamic **F**ull-**F**ield **O**p
 
 INSERT FIG HERE
 
-The idea behind **O**ptical **C**oherence **T**omography (OCT) is the same as ultrasound imaging, the main difference being that it is not possible to generate and measure pulses in optics hence listen to light echoes. Therefore we need a smart way to discriminate light coming from several layers inside the sample. With OCT the smart idea is to generate interferences in the layer we aim to image. If you are not familiar with this you can learn more on OCT [here](https://www.jscholler.com/2019-01-28-ffoct/). In the figure above, the light coming from the reference will only interfere with the layer in the sample matching the optical path length, on the width given by the coherence length which is given by the source properties. For a Gaussian source the coherence length depends on the wavelength and bandwidth:
+The idea behind **O**ptical **C**oherence **T**omography (OCT) is the same as ultrasound imaging, the main difference being that it is not possible to generate and measure pulses in optics hence listen to light echoes. Therefore we need a smart way to discriminate light coming from several layers inside the sample. With OCT the smart idea is to generate interferences in the layer we aim to image. If you are not familiar with this you can learn more on OCT [here](https://www.jscholler.com/2019-01-28-ffoct/). In the figure above, the light coming from the reference will only interfere with the layer in the sample matching the optical path length. The width on-which the interferences can happen is given by the coherence length which is given by the source properties. For a Gaussian source the coherence length depends on the wavelength and bandwidth:
 
 $$ l_c \sim \frac{\lambda}{\delta \lambda^2} $$
+
+Using phase-shifting strategies to remove background light coming from out-of-coherence layers we can reconstruct *en-face* images of the sample. Now, if instead of taking an image we record a movie, we can measure the fluctuations in each pixel and construct dynamic images. On these dynamic images it is possible to locate cells, for each cell it is possible to extract the raw fluctuation signals. By concatenating the raw signals contain in a single cell we can generate a song.
+
+## How to go from several images to an actual song?
