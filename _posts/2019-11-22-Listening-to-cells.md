@@ -27,7 +27,10 @@ Using phase-shifting strategies to remove background light coming from out-of-co
 
 So the first step is to compute the image by computing the amplitude of fluctuations in each pixel during the movie, see the example below.
 
-![Mouse GCL](../img/listening_to_cells/mouse_gcl.jpg){: .center-image }
-*Dynamic image of a mouse retina (ganglion cell layer)*
+![Mouse GCL](../img/listening_to_cells/gcl.jpg){: .center-image }
+*Dynamic image of a mouse retina (ganglion cell layer).*
 
 Then we need segment cells, that is to say we need to find the pixel belonging to each cell. To do that there are a bunch of algorithm and I used a machine learning approach, see segmentation results below.
+
+![Mouse GCL](../img/listening_to_cells/gcl_segmented.jpg){: .center-image }
+*Results of segmentation with cells in yellow and background in blue.*
