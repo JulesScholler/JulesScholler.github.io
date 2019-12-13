@@ -12,6 +12,7 @@ title: "Scientific contributions"
 | **J. Scholler**, "Motion artifact removal and signal enhancement to achieve in vivo dynamic full field OCT," Opt. Express 27, 19562-19572 (2019) |
 | **J. Scholler**, "FFOCT: control and acquisition software", [![DOI](https://zenodo.org/badge/111929339.svg)](https://zenodo.org/badge/latestdoi/111929339) |
 | H. Hogan, "Computational Imaging Builds Better Pictures", [Photonics](https://www.photonics.com/Articles/Computational_Imaging_Builds_Better_Pictures/a64592) (2019)|
+| **J. Scholler**, K. Groux, O. Goureau, J. Sahel, M. Fink, S. Reichman, C. Boccara and K. Grieve, "Dynamic full-field optical coherence tomography: 3D live-imaging of retinal organoids," arXiv:1912.04052 (2019) |
 
 --
 
