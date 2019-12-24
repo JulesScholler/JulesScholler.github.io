@@ -13,6 +13,7 @@ title: "Scientific contributions"
 | **J. Scholler**, "FFOCT: control and acquisition software", [![DOI](https://zenodo.org/badge/111929339.svg)](https://zenodo.org/badge/latestdoi/111929339) |
 | H. Hogan, "Computational Imaging Builds Better Pictures", [Photonics](https://www.photonics.com/Articles/Computational_Imaging_Builds_Better_Pictures/a64592) (2019)|
 | **J. Scholler**, K. Groux, O. Goureau, J. Sahel, M. Fink, S. Reichman, C. Boccara and K. Grieve, "Dynamic full-field optical coherence tomography: 3D live-imaging of retinal organoids," arXiv:1912.04052 (2019) |
+| P. Mecê, **J. Scholler**, K. Groux and C. Boccara, "High-resolution in-vivo human retinal imaging using full-field OCT with optical stabilization of axial motion," Biomed. Opt. Express 11, 492-504 (2020) |
 
 --
 
