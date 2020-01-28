@@ -7,15 +7,30 @@ image: /img/color_stabilization.jpg
 show-avatar: true
 ---
 
-### Problem
+In this post I will explain how we post-process timelapses to compensate for flickering color effects. When making timelapse of [dynamic full-field OCT](https://www.jscholler.com/2019-01-28-dffoct/) acquisitions colors can slightly shift. This is due to residual noise in the Fourier Transform of the probed signals (I proposed a method for removing such noise [here](https://www.jscholler.com/pages/svd/) but it is not perfect and requires high-end computers to be done. A tradeoff is to use image processing to stabilize the color rendering of timelapses in post processing.
 
+### Method 1: colors are not supposed to change during the acquisition
 
+If colors are not supposed to change during the whole acquisition then one can stabilize the timelapse by taking the colors on the first image as template and match all the following images to the first. To to that you need to do the following:
+1. Transform the first image from RGB colorspace to HSV colorspace.
+2. Compute the histogram of the H (hue) channel which correspond to the color information, which becomes the template.
+3. Loop through the next images, transform them from RGB to HSV colorspace. Then match their H histogram to the template and transform them back to RGB colorspace.
+4. The timelapse should be color stabilized!
 
-### Results
+Below is an example on a several hours retinal pigment epithelium acquisition (see **stabilize_color** below for the source code).
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lJtFcYRsCEw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
+
+### Method 1: colors are supposed to change slowly during the acquisition
+
+If colors are supposed to change slowly during the whole acquisition (in our case it could be because we expect some biological phenomenon to change over time) then one can remove the fast color flickering by inducing a lowpass filter on the timelapse color.  To to that you need to loop through all images and for each do:
+1. Compute the hue channel for the k following images histogram by averaging the hue channel of the k histogram
+2. Match the current image hue to the previously computed histogram
+
+(see **stabilize_running_color** below for the source code).
+
 
 ### Source code
 
