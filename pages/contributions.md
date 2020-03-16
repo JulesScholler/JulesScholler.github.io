@@ -18,6 +18,7 @@ D. Bouchet, **J. Scholler**, G. Blanquer, Y. De Wilde, I. Izeddin, and V. Krachm
 <div align='right' class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-doi='https://doi.org/10.1364/OE.27.019562'></div>
 
 **J. Scholler**, "FFOCT: control and acquisition software", [![DOI](https://zenodo.org/badge/111929339.svg)](https://zenodo.org/badge/latestdoi/111929339)
+<div align='right' class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-uri='http://doi.org/10.5281/zenodo.3137246'></div>
 
 H. Hogan, "Computational Imaging Builds Better Pictures", [Photonics](https://www.photonics.com/Articles/Computational_Imaging_Builds_Better_Pictures/a64592) (2019)
 
