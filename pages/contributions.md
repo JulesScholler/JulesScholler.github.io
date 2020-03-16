@@ -11,23 +11,29 @@ title: "Scientific contributions"
 D. Bouchet, **J. Scholler**, G. Blanquer, Y. De Wilde, I. Izeddin, and V. Krachmalnicoff, "Probing near-field light–matter interactions with single-molecule lifetime imaging," Optica 6, 135-138 (2019)
 <div align='right' class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-doi='https://doi.org/10.1364/OPTICA.6.000135'></div>
 
-**J. Scholler**, "FFOCT: control and acquisition software",[![DOI](https://zenodo.org/badge/111929339.svg)](https://zenodo.org/badge/latestdoi/111929339)
+**J. Scholler**, V. Mazlin, O. Thouvenin, K. Groux, P. Xiao, J. Sahel, M. Fink, C. Boccara, and K. Grieve, "Probing dynamic processes in the eye at multiple spatial and temporal scales with multimodal full field OCT," Biomed. Opt. Express 10, 731-746 (2019)
+<div align='right' class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-doi='https://doi.org/10.1364/BOE.10.000731'></div>
 
-| Publications                                                                                                                                                                                      |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| D. Bouchet, **J. Scholler**, G. Blanquer, Y. De Wilde, I. Izeddin, and V. Krachmalnicoff, "Probing near-field light–matter interactions with single-molecule lifetime imaging," Optica 6, 135-138 (2019) <div class='altmetric-embed' data-badge-popover='left' data-doi='https://doi.org/10.1364/OPTICA.6.000135'></div> |
-| **J. Scholler**, V. Mazlin, O. Thouvenin, K. Groux, P. Xiao, J. Sahel, M. Fink, C. Boccara, and K. Grieve, "Probing dynamic processes in the eye at multiple spatial and temporal scales with multimodal full field OCT," Biomed. Opt. Express 10, 731-746 (2019) |
-| **J. Scholler**, "Motion artifact removal and signal enhancement to achieve in vivo dynamic full field OCT," Opt. Express 27, 19562-19572 (2019) |
-| **J. Scholler**, "FFOCT: control and acquisition software", [![DOI](https://zenodo.org/badge/111929339.svg)](https://zenodo.org/badge/latestdoi/111929339) |
-| H. Hogan, "Computational Imaging Builds Better Pictures", [Photonics](https://www.photonics.com/Articles/Computational_Imaging_Builds_Better_Pictures/a64592) (2019)|
-| **J. Scholler**, K. Groux, O. Goureau, J. Sahel, M. Fink, S. Reichman, C. Boccara and K. Grieve, "Dynamic full-field optical coherence tomography: 3D live-imaging of retinal organoids," arXiv:1912.04052 (2019) |
-| P. Mecê, **J. Scholler**, K. Groux and C. Boccara, "High-resolution in-vivo human retinal imaging using full-field OCT with optical stabilization of axial motion," Biomed. Opt. Express 11, 492-504 (2020) |
-| P. Mecê, K. Groux, **J. Scholler**, O. Thouvenin, M. Fink, K. Grieve, C. Boccara, "Curved-Full-Field OCT for high-resolution imaging of living human retina over a large field-of-view," arXiv:2001.06893 (2020) |
-| V. Mazlin, P. Xiao, **J. Scholler**, K. Irsch, K. Grieve, M. Fink, C. Boccara, "Real-time, non-contact, cellular imaging and angiography of human cornea and limbus with common-path Full-field/SDOCT," arXiv:2001.08213 (2020) |
+**J. Scholler**, "Motion artifact removal and signal enhancement to achieve in vivo dynamic full field OCT," Opt. Express 27, 19562-19572 (2019)
+<div align='right' class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-doi='https://doi.org/10.1364/OE.27.019562'></div>
+
+**J. Scholler**, "FFOCT: control and acquisition software", [![DOI](https://zenodo.org/badge/111929339.svg)](https://zenodo.org/badge/latestdoi/111929339)
+
+H. Hogan, "Computational Imaging Builds Better Pictures", [Photonics](https://www.photonics.com/Articles/Computational_Imaging_Builds_Better_Pictures/a64592) (2019)
+
+**J. Scholler**, K. Groux, O. Goureau, J. Sahel, M. Fink, S. Reichman, C. Boccara and K. Grieve, "Dynamic full-field optical coherence tomography: 3D live-imaging of retinal organoids," arXiv:1912.04052 (2019)
+<div align='right' class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-arxiv-id='1912.04052'></div>
+
+P. Mecê, **J. Scholler**, K. Groux and C. Boccara, "High-resolution in-vivo human retinal imaging using full-field OCT with optical stabilization of axial motion," Biomed. Opt. Express 11, 492-504 (2020)
+<div align='right' class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-doi='https://doi.org/10.1364/BOE.381398'></div>
+
+P. Mecê, K. Groux, **J. Scholler**, O. Thouvenin, M. Fink, K. Grieve, C. Boccara, "Curved-Full-Field OCT for high-resolution imaging of living human retina over a large field-of-view," arXiv:2001.06893 (2020)
+<div align='right' class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-arxiv-id='2001.06893'></div>
+
+V. Mazlin, P. Xiao, **J. Scholler**, K. Irsch, K. Grieve, M. Fink, C. Boccara, "Real-time, non-contact, cellular imaging and angiography of human cornea and limbus with common-path Full-field/SDOCT," arXiv:2001.08213 (2020)
+<div align='right' class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-arxiv-id='2001.08213'></div>
 
 --
-
-
 
 | Conference Presentations (1st author/speaker)                                                                                                                                                                                                                                                           |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
