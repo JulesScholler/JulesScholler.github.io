@@ -8,11 +8,10 @@ title: "Scientific contributions"
 
 ## Publications 
 
-D. Bouchet, **J. Scholler**, G. Blanquer, Y. De Wilde, I. Izeddin, and V. Krachmalnicoff, "Probing near-field light–matter interactions with single-molecule lifetime imaging," Optica 6, 135-138 (2019) <div class='altmetric-embed' data-badge-popover='left' data-doi='https://doi.org/10.1364/OPTICA.6.000135'></div>
+D. Bouchet, **J. Scholler**, G. Blanquer, Y. De Wilde, I. Izeddin, and V. Krachmalnicoff, "Probing near-field light–matter interactions with single-molecule lifetime imaging," Optica 6, 135-138 (2019)
+<div align='right' class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-doi='https://doi.org/10.1364/OPTICA.6.000135'></div>
 
-- **J. Scholler**, "FFOCT: control and acquisition software",[![DOI](https://zenodo.org/badge/111929339.svg)](https://zenodo.org/badge/latestdoi/111929339)
-
-<div class='altmetric-embed' data-badge-popover='left' data-doi='http://doi.org/10.5281/zenodo.3137246'>
+**J. Scholler**, "FFOCT: control and acquisition software",[![DOI](https://zenodo.org/badge/111929339.svg)](https://zenodo.org/badge/latestdoi/111929339)
 
 | Publications                                                                                                                                                                                      |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
