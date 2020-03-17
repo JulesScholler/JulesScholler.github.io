@@ -79,13 +79,7 @@
     // RENDERING
 
     function render() {
-        canvas.removeEventListener('mousedown', ev_mousedown);
-        canvas.style.cssText = "border: none;";
-
-        $("clear_btn").remove();
-        $("render_btn").remove();
-
-        to_render = ['name', 'born', 'address', 'place', 'date'];
+        to_render = ['date'];
         to_render.forEach(function(el) {
             $(el).insertAdjacentHTML('afterend', $(el).value);
             $(el).remove();
@@ -100,7 +94,6 @@
         });
 
         window.print();
-
     }
 
 </script>
