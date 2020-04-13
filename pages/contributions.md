@@ -39,21 +39,13 @@ V. Mazlin, P. Xiao, **J. Scholler**, K. Irsch, K. Grieve, M. Fink, C. Boccara, "
 | Conference Presentations (1st author/speaker)                                                                                                                                                                                                                                                           |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | O. Thouvenin; **J. Scholler**; A. C. Boccara; M. Paques; J. Sahel; M. Fink; K. Grieve *"Ultrahigh resolution imaging of cellular dynamics in explanted corneas and retinas with ocular pathologies using dynamic full-field OCT"*; Proc. SPIE 10474, Ophthalmic Technologies XXVIII;  |
-
 | **J. Scholler**, O. Thouvenin, K. Grieve, M. Fink and C. Boccara, *"Dynamic full-field OCT for high resolution imaging of explanted corneas and retinas"*, OptDiag 2018 |
-
-| **J. Scholler**, K. Groux, C. Boccara, K. Grieve  *"Methods and applications of quantitative dynamic full-field coherence tomography"*, QBI 2019 |                                                                                                                                    
+| **J. Scholler**, K. Groux, C. Boccara, K. Grieve  *"Methods and applications of quantitative dynamic full-field coherence tomography"*, QBI 2019 |                                                                                                 
 | **J. Scholler**, K. Groux, S. Reichman, M. Paques, O Goureau, J. Sahel, M. Fink, C. Boccara and K. Grieve *"Subcellular quantitative dynamic imaging: from metabolic activity to cell tracking of retinal and corneal structure"* Photonics West 2019 |
-
 | **J. Scholler**, K. Groux, M. Fink, C. Boccara and K. Grieve *"Label free retinal cell imaging with dynamic full-field OCT"*, ARVO Imaging in the Eye (2019)|
-
 | **J. Scholler**, P. Mecê, K. Groux, V. Mazlin, C. Boccara and K. Grieve *"Motion artifact removal and signal enhancement to achieve in vivo dynamic full field OCT (Conference Presentation)"*, Proc. SPIE 11228, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XXIV, 112281N (9 March 2020)|
-
 |**J. Scholler**, O. Thouvenin, E. Benoit a la Guillaume and C. Boccara *"One hundred percent successful automatic breast cancer diagnosis using static and dynamic FFOCT images (Conference Presentation)"*, Proc. SPIE 11222, Molecular-Guided Surgery: Molecules, Devices, and Applications VI, 1122206 (10 March 2020)|
-
 |P. Mecê, **J. Scholler**, K. Groux, M. Fink, K. Grieve and C. Boccara *"Adaptive glasses-assisted Full-Field OCT for SNR enhanced 3D high-resolution retinal imaging (Conference Presentation)"*, Proc. SPIE 11228, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XXIV, 112281O (9 March 2020)|
-
-
 
 --
 
