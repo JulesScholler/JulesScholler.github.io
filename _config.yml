@@ -22,14 +22,13 @@ description: This website presents my work and more.
 # List of links in the navigation bar
 navbar-links:
   Home: "https://www.jscholler.com"
-  Projects:
+  Cool projects:
     - Predicting time arrow in videos: "pages/timearrow"
     - Automatic portrait pictures ranking: "pages/regaind"
-  Publications:
+  Research:
     - List of contributions: "pages/contributions"
     - Mapping the LDOS with super-resolution: "pages/ldosstorm"
-    - Probing dynamic processes in the eye: "pages/boe_multimodal"
-    - Motion artifact removal for DFFOCT: "pages/svd"
+    - Motion artifact removal for D-FFOCT: "pages/svd"
   About:
     - About me: "pages/aboutme"
     - Climbing: "pages/climbing"
