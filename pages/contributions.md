@@ -51,5 +51,5 @@ V. Mazlin, P. Xiao, **J. Scholler**, K. Irsch, K. Grieve, M. Fink, C. Boccara, "
 
 | Conference Posters (1st author/speaker)                                                                                                                       |
 |-------------------------------------------------------------------------------------------------------------------------------------------|
-| "Dynamic full-field OCT for retinal cell classification", Photonics West 2019, **J. Scholler**, K. Groux, M. Fink, C. Boccara and K. Grieve |
-| "Real time dynamic imaging of retinal samples with full field OCT", ARVO 2019, **J. Scholler**, K. Groux, J. Sahel, M. Fink**, C. Boccara and K. Grieve |
+| **J. Scholler**, K. Groux, M. Fink, C. Boccara and K. Grieve, *"Dynamic full-field OCT for retinal cell classification"*, Photonics West 2019  |
+| **J. Scholler**, K. Groux, J. Sahel, M. Fink**, C. Boccara and K. Grieve *"Real time dynamic imaging of retinal samples with full field OCT"*, ARVO 2019  |
