@@ -10,9 +10,7 @@ show-avatar: false
 
 ## Aim of the tutorial
 
-From an input fluorescence image of the photoreceptors we want to compute the deviation of the outer-segment (red part) with respect to the base (blue part). Also we want to compute the deviation of the green and the blue part.
-
-![Outer segment](../img/outer_segment_orientation/outer_segment.jpg){: .center-image }
+From an input fluorescence image of the photoreceptors shown at the top we want to compute the deviation of the outer-segment (red part) with respect to the base (blue part). Also we want to compute the deviation of the green and the blue part.
 
 You can download the data here.
 
