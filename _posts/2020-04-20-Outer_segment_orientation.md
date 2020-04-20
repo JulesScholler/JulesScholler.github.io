@@ -52,6 +52,6 @@ def display_initial_dataset(u):
 
 ## Step 2: Automatically locate and segment outer segment
 
-![Outer segment](../img/outer_segment_orientation/segmentation_results.jpg){: .center-image }
+![Outer segment](../img/outer_segment_orientation/segmentation_results.JPG){: .center-image }
 
 ## Step 3: loop through the detected outer segment
