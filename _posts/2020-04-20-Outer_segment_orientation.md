@@ -21,7 +21,7 @@ The first step is to load and display the data. The data consist of a 3 dimensio
 
 ![Outer segment](../img/outer_segment_orientation/outer_segment_separate.jpg){: .center-image }
 
-```Python
+```python
 def gray2color(u,channel):
     """
     Compute color image from intensity in fluorescence in a given channel.
