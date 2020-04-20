@@ -15,9 +15,9 @@ From an input fluorescence image of the photoreceptors shown at the top we want 
 You can download the data here.
 
 
-## Step 1: display the data
+## Step 1: load and display the data
 
-The first step is to display the data. The data consist of a 3 dimensional array of shape (1024,1024,4). The first image is not of interest in our application so we will just disregard it. Find a way to display each image in color separately like below.
+The first step is to load and display the data. The data consist of a 3 dimensional array of shape (1024,1024,4). The first image is not of interest in our application so we will just disregard it. Find a way to display each image in color separately like below.
 
 ![Outer segment](../img/outer_segment_orientation/outer_segment_separate.jpg){: .center-image }
 
@@ -49,3 +49,9 @@ def display_initial_dataset(u):
     ax[3].set_title('Blue channel')
     return (ax, fig)
 ``` 
+
+## Step 2: Automatically locate and segment outer segment
+
+![Outer segment](../img/outer_segment_orientation/segmentation_results.jpg){: .center-image }
+
+## Step 3: loop through the detected outer segment
