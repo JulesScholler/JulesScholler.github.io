@@ -10,7 +10,7 @@ show-avatar: false
 
 The fluorescence images and idea of this tutorial was proposed by Dr. Anna verschueren:
 
-*"This image shows macaque photoreceptors (cones) observed by immunofluorescence. To be able to distinguish the cell's different compartiment, fluorescent antibodies of different colors are used to specifically stain the outer segment (red), the inner segment (bleue) and the calyceal processes at the outer and inner segment junction (green). The physiological role of calyceal processes is unknown, but its structure is known to be affected in pathologies as the Usher syndrome. One of the current hypothesis is their role as mechanical support for the base of the outer segment, a fragile area where photoreceptors are susceptible to mechanical stress. The question is to observe the deformation of the outer segment compared to the inner segment orientation, and to quantify if the presence of the calyceal processes constrict this deformation."*
+*"This image shows macaque photoreceptors (cones) observed by immunofluorescence. To be able to distinguish the cell's different compartiment, fluorescent antibodies of different colors are used to specifically stain the outer segment (red), the inner segment (bleue) and their junction (green). One interesting hypothesis could be validated by observing the deformation of the outer segment compared to the inner segment orientation."*
 
 ## Aim of the tutorial
 
@@ -99,5 +99,8 @@ For this try to follow the following steps:
 
 ## Step 3: loop through the detected outer segment
 
+At this step you should have each outer segment in a list with several properties computed by ``regionprops``. The goal is to loop through
 
 ## Solutions
+
+The complete implementation will be given at the end of the tutorial.
