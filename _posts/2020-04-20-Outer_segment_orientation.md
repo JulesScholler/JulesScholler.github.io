@@ -32,6 +32,8 @@ The first step is to load and display the data. The data consists of a 3 dimensi
 
 ![Outer segment](../img/outer_segment_orientation/outer_segment_separate.jpg){: .center-image }
 
+In order to help you, I wrote two functions upon which you can draw inspiration:
+
 ```python
 def gray2color(u,channel):
     """
