@@ -92,9 +92,10 @@ def display_initial_dataset(u):
 ![Outer segment](../img/outer_segment_orientation/segmentation_results.JPG){: .center-image }
 
 For this try to follow the following steps:
-1) Threshold the red channel using one of the threshold function from Scikit-image.
-2) Use morphology operators to improve the mask (fill holes and remove small objects)
-3) Use the ``label`` and ``regionprops`` functions to identify each outer segment.
+
+1. Threshold the red channel using one of the threshold function from Scikit-image.
+2. Use morphology operators to improve the mask (fill holes and remove small objects)
+3. Use the ``label`` and ``regionprops`` functions to identify each outer segment.
 
 
 ## Step 3: loop through the detected outer segment
