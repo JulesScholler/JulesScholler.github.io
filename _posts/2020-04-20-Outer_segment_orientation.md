@@ -14,6 +14,12 @@ From an input fluorescence image of the photoreceptors shown at the top we want 
 
 You can download the data here.
 
+For this tutorial you need the following libraries:
+- Numpy
+- Scikit-image
+- Matplotlib
+- Scipy
+
 
 ## Step 1: load and display the data
 
@@ -25,7 +31,16 @@ The first step is to load and display the data. The data consist of a 3 dimensio
 def gray2color(u,channel):
     """
     Compute color image from intensity in fluorescence in a given channel.
-    
+    Arguments:
+    -----------
+        u: np.ndarray
+            Input fluorescence image (2D).
+        channel: int
+            Channel to code the image in (0: Red, 1: Green, 2: Blue).
+    Returns:
+    -----------
+        u_color: np.ndarray
+            The computed output image in color.
     """
     u_color = np.dstack((
         rescale_intensity(u if channel==0 else np.zeros_like(u), out_range='float'),
@@ -37,7 +52,10 @@ def gray2color(u,channel):
 def display_initial_dataset(u):
     """
     Display initial image.
-    
+    Arguments:
+    -----------
+        u: np.ndarray
+            Initial hyperstack given by Anna.
     """
     R = u[:,:,3]
     G = u [:,:,2]
@@ -66,4 +84,13 @@ def display_initial_dataset(u):
 
 ![Outer segment](../img/outer_segment_orientation/segmentation_results.JPG){: .center-image }
 
+For this try to follow the following steps:
+1) Threshold the red channel using one of the threshold function from Scikit-image.
+2) Use morphology operators to improve the mask (fill holes and remove small objects)
+3) Use the ``label`` and ``regionprops`` functions to identify each outer segment.
+
+
 ## Step 3: loop through the detected outer segment
+
+
+## Solutions
