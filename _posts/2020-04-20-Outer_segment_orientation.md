@@ -23,10 +23,12 @@ For this tutorial you need the following libraries (if you installed Python with
 - Matplotlib
 - Scipy
 
+You are free to choose your IDE but I recommend to use Spyder rather than Jupyter Notebook as it allows you to have a variable explorer to monitor your workspace.
+
 
 ## Step 1: load and display the data
 
-The first step is to load and display the data. The data consist of a 3 dimensional array of shape (1024,1024,4). The first image is not of interest in our application so we will just disregard it. Find a way to display each image in color separately like below.
+The first step is to load and display the data. The data consists of a 3 dimensional array of shape $(1024,1024,4)$. The first image is not of interest in our application so we will just disregard it. Each $(1024,1024)$ array are representing fluorescent image in ``uint32``, the first being the blue, the second the green and the third the red. First, code a function to display each image in color separately like below.
 
 ![Outer segment](../img/outer_segment_orientation/outer_segment_separate.jpg){: .center-image }
 
