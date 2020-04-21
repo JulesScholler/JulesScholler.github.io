@@ -8,7 +8,7 @@ image: /img/outer_segment_orientation/outer_segment.jpg
 show-avatar: false
 ---
 
-The fluorescence images and idea of this tutorial was proposed by Dr. Anna verschueren:
+The fluorescence images and idea of this tutorial was proposed by Dr. Anna Verschueren:
 
 *"This image shows macaque photoreceptors (cones) observed by immunofluorescence. To be able to distinguish the cell's different compartiment, fluorescent antibodies of different colors are used to specifically stain the outer segment (red), the inner segment (bleue) and their junction (green). One interesting hypothesis could be validated by observing the deformation of the outer segment compared to the inner segment orientation."*
 
