@@ -8,13 +8,16 @@ image: /img/outer_segment_orientation/outer_segment.jpg
 show-avatar: false
 ---
 
+The fluorescence images and aim of this tutorial was proposed by Dr. Anna verschueren:
+
+*"This image shows macaque photoreceptors (cones) observed by immunofluorescence. To be able to distinguish the cell's different compartiment, fluorescent antibodies of different colors are used to specifically stain the outer segment (red), the inner segment (bleue) and the calyceal processes at the outer and inner segment junction (green). The physiological role of calyceal processes is unknown, but its structure is known to be affected in pathologies as the Usher syndrome. One of the current hypothesis is their role as mechanical support for the base of the outer segment, a fragile area where photoreceptors are susceptible to mechanical stress. The question is to observe the deformation of the outer segment compared to the inner segment orientation, and to quantify if the presence of the calyceal processes constrict this deformation."*
+
 ## Aim of the tutorial
 
-From an input fluorescence image of the photoreceptors shown at the top we want to compute the deviation of the outer-segment (red part) with respect to the base (blue part). Also we want to compute the deviation of the green and the blue part.
+From an input fluorescence image of the photoreceptors (available here and shown at the top) we want to compute the deviation of the outer-segment (red part) with respect to the inner segment (blue part).
 
-You can download the data here.
+For this tutorial you need the following libraries (if you installed Python with Anaconda you should have everything except Scikit-image):
 
-For this tutorial you need the following libraries:
 - Numpy
 - Scikit-image
 - Matplotlib
