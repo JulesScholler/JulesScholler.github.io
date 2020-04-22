@@ -114,13 +114,13 @@ $$\vec{ab}=\binom{x_2-x_1}{y_2-y_1}$$
 
 Computing the dot product between $\vec{ab}$ and $\vec{u_x}$ we have:
 
-$$\vec{ab}.\vec{U_x} = ||\vec{ab}|| \times ||\vec{u_x}|| \times cos(\vec{ab},\vec{u_x})$$
+$$\vec{ab}.\vec{u_x} = ||\vec{ab}|| \times ||\vec{u_x}|| \times cos(\vec{ab},\vec{u_x})$$
 
 Let's call $\alpha$ the angle between $\vec{ab}$ and $\vec{u_x}$, we can compute it with the following equation:
 
 $$\alpha = arccos\left( \frac{x_2-x_1}{\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}} \right)$$
 
-With this create a function ``get_angle`` which compute the angle between a vector defined by two given points and the abscissa unitary vector.
+With this create a function ``get_angle`` which compute the angle between a vector defined by two given points and the abscissa unitary vector. To achieve this you will need to use the arccos function ``np.arccos`` and the square root function ``np.sqrt``.
 
 ## Solutions
 
