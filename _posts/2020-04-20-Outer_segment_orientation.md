@@ -100,7 +100,21 @@ For this try to follow the following steps:
 
 ## Step 3: loop through the detected outer segment
 
-At this step you should have each outer segment in a list with several properties computed by ``regionprops``. The goal is to loop through
+At this step you should have each outer segment in a list with several properties computed by ``regionprops``. The goal is now to loop through the outer segment and ask the user to manually select some points using ``plt.ginput``. In order to help the user, you can then draw the different vectors that describe the direction of each part:
+
+![Orientation example](../img/outer_segment_orientation/orientation_example.JPG){: .center-image }
+
+Then, compute the angle between each pairs of vectors. To do that we need to do a little bit of geometry. Given two points $a$ and $b$ with coordinates:
+
+$$a=\binom{x_1}{y_1} \ \ b=\binom{x_2}{y_2}$$
+
+The vector $\vec{ab}$ can then be written:
+
+$$\vec{ab}=\binom{x_2-x_1}{y_2-y_1}$$
+
+Computing the dot product between $\vec{ab}$ and $\vec{U_x}$ we have:
+
+$$\vec{ab}.\vec{U_x} = ||\vec{ab}|| ||\vec{U_x}|| cos(\vec{ab},\vec{U_x}$$ 
 
 ## Solutions
 
