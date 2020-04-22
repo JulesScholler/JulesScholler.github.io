@@ -31,8 +31,8 @@ P. Mecê, **J. Scholler**, K. Groux and C. Boccara, "High-resolution in-vivo hum
 P. Mecê, K. Groux, **J. Scholler**, O. Thouvenin, M. Fink, K. Grieve, C. Boccara, "Curved-Full-Field OCT for high-resolution imaging of living human retina over a large field-of-view," arXiv:2001.06893 (2020)
 <div align='right' class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-arxiv-id='2001.06893'></div>
 
-V. Mazlin, P. Xiao, **J. Scholler**, K. Irsch, K. Grieve, M. Fink, C. Boccara, "Real-time, non-contact, cellular imaging and angiography of human cornea and limbus with common-path Full-field/SDOCT," arXiv:2001.08213 (2020)
-<div align='right' class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-arxiv-id='2001.08213'></div>
+V. Mazlin, P. Xiao, **J. Scholler**, K. Irsch, K. Grieve, M. Fink, C. Boccara, "Real-time non-contact cellular imaging and angiography of human cornea and limbus with common-path full-field/SD OCT". Nat Commun 11, 1868 (2020).
+<div align='right' class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' doi='https://doi.org/10.1038/s41467-020-15792-x'></div>
 
 --
 
