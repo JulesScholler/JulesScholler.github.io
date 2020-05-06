@@ -97,6 +97,26 @@ For this try to follow the following steps:
 2. Use morphology operators to improve the mask (fill holes and remove small objects)
 3. Use the ``label`` and ``regionprops`` functions to identify each outer segment.
 
+You can use the following function for step 3.
+
+```python
+def get_cells_from_bool(mask, plot=False):
+    """
+    Get list of shapes with properties from boolean map.
+    
+    """
+    label_image = label(mask)
+    cells = []
+    for region in regionprops(label_image):
+        cells.append(region)
+            
+    if plot:
+        image_label_overlay = label2rgb(label_image, alpha=0.2, bg_label=0)
+        plt.imshow(image_label_overlay)
+        plt.title('Detected cells ' + str(len(cells)))
+    return cells
+```
+
 
 ## Step 3: loop through the detected outer segment
 
@@ -121,6 +141,11 @@ Let's call $\alpha$ the angle between $\vec{ab}$ and $\vec{u_x}$, we can compute
 $$\alpha = arccos\left( \frac{x_2-x_1}{\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}} \right)$$
 
 With this create a function ``get_angle`` which compute the angle between a vector defined by two given points and the abscissa unitary vector. To achieve this you will need to use the arccos function ``np.arccos`` and the square root function ``np.sqrt``.
+
+```python
+def get_angle(a,b):
+    return np.arccos((b[0]-a[0])/(np.sqrt((b[0]-a[0])**2+(b[1]-a[1])**2)))
+```
 
 ## Solutions
 
