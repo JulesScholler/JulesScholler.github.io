@@ -127,12 +127,6 @@ With this create a function ``get_angle`` which compute the angle between a vect
 The complete implementation will be given at the end of the tutorial.
 
 ```Python
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 20 11:22:32 2020
-
-@author: Jules Scholler
-"""
 
 import numpy as np
 import matplotlib.pyplot as plt
