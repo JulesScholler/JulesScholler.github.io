@@ -127,6 +127,7 @@ With this create a function ``get_angle`` which compute the angle between a vect
 The complete implementation will be given at the end of the tutorial.
 
 ```python
+
 import numpy as np
 import matplotlib.pyplot as plt
 from skimage.io import imread
@@ -246,4 +247,4 @@ for cell in R_cells[0:3]:
     plt.show()
     plt.pause(0.1)
     plt.close(fig)
-    ```
+```
