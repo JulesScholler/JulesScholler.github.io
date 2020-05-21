@@ -16,13 +16,6 @@ From *Refuge des Evettes* to *Pointe Francesetti* the details are shown below. I
 <iframe src="https://my.viewranger.com/track/widget/11440466?locale=en&amp;m=km&amp;v=2" width="640" height="640" marginwidth="0" frameborder="0" scrolling="no"></iframe>
  </center>
 
-
-![Day1 map](../img/pointe_francesetti/map_and_elevation.png){: .center-image }
-
-| Distance [km] | Total Ascent [m] | Total Descent [m] |
-| :-------------: |:-------------:| :-----:|
-| 6.6 | 984 | 128 |
-
 -
 
 <center>
