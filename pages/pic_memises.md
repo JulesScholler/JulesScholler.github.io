@@ -5,7 +5,6 @@ bigimg: /img/corsica2019/pietra_piana.jpg
 comments: true
 ---
 
-
-<iframe class="alltrails" src="https://www.alltrails.com/widget/map/activity-4659610753-f2fc990?u=m" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
-
-<iframe src="https://my.viewranger.com/route/widget/MzA0MzM4Ng==?locale=en&amp;m=miles&amp;v=2" width="640" height="640" marginwidth="0" frameborder="0" scrolling="no"></iframe>
+<center>
+<iframe src="https://my.viewranger.com/route/widget/MzA0MzM4Ng==?locale=en&amp;m=km&amp;v=2" width="640" height="640" marginwidth="0" frameborder="0" scrolling="no"></iframe>
+</center>
