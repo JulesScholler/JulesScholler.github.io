@@ -22,8 +22,8 @@ D. Bouchet, **J. Scholler**, G. Blanquer, Y. De Wilde, I. Izeddin, and V. Krachm
 
 H. Hogan, "Computational Imaging Builds Better Pictures", [Photonics](https://www.photonics.com/Articles/Computational_Imaging_Builds_Better_Pictures/a64592) (2019)
 
-**J. Scholler**, K. Groux, O. Goureau, J. Sahel, M. Fink, S. Reichman, C. Boccara and K. Grieve, "Dynamic full-field optical coherence tomography: 3D live-imaging of retinal organoids," arXiv:1912.04052 (2019)
-<div align='right' class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-arxiv-id='1912.04052'></div>
+**J. Scholler**, K. Groux, O. Goureau, J. Sahel, M. Fink, S. Reichman, C. Boccara and K. Grieve, "Dynamic full-field optical coherence tomography: 3D live-imaging of retinal organoids," Light Sci Appl 9, 140 (2020).
+<div align='right' class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-doi='https://doi.org/10.1038/s41377-020-00375-8'></div>
 
 P. Mecê, **J. Scholler**, K. Groux and C. Boccara, "High-resolution in-vivo human retinal imaging using full-field OCT with optical stabilization of axial motion," Biomed. Opt. Express 11, 492-504 (2020)
 <div align='right' class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-doi='https://doi.org/10.1364/BOE.381398'></div>
