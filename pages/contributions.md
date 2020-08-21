@@ -20,8 +20,6 @@ D. Bouchet, **J. Scholler**, G. Blanquer, Y. De Wilde, I. Izeddin, and V. Krachm
 **J. Scholler**, "FFOCT: control and acquisition software", [![DOI](https://zenodo.org/badge/111929339.svg)](https://zenodo.org/badge/latestdoi/111929339)
 <div align='right' class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-uri='http://doi.org/10.5281/zenodo.3137246'></div>
 
-H. Hogan, "Computational Imaging Builds Better Pictures", [Photonics](https://www.photonics.com/Articles/Computational_Imaging_Builds_Better_Pictures/a64592) (2019)
-
 **J. Scholler**, K. Groux, O. Goureau, J. Sahel, M. Fink, S. Reichman, C. Boccara and K. Grieve, "Dynamic full-field optical coherence tomography: 3D live-imaging of retinal organoids," Light Sci Appl 9, 140 (2020).
 <div align='right' class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-doi='https://doi.org/10.1038/s41377-020-00375-8'></div>
 
@@ -34,8 +32,13 @@ P. Mecê, K. Groux, **J. Scholler**, O. Thouvenin, M. Fink, K. Grieve, C. Boccar
 V. Mazlin, P. Xiao, **J. Scholler**, K. Irsch, K. Grieve, M. Fink, C. Boccara, "Real-time non-contact cellular imaging and angiography of human cornea and limbus with common-path full-field/SD OCT". Nat Commun 11, 1868 (2020).
 <div align='right' class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-doi='https://doi.org/10.1038/s41467-020-15792-x'></div>
 
+--
+## News
+
+H. Hogan, "Computational Imaging Builds Better Pictures", [Photonics](https://www.photonics.com/Articles/Computational_Imaging_Builds_Better_Pictures/a64592) (2019)
 
 --
+
 
 | Conference Presentations (1st author/speaker)                                                                                                                                                                                                                                                           |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
