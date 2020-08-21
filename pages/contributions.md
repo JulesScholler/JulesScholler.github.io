@@ -27,7 +27,7 @@ P. Mecê, **J. Scholler**, K. Groux and C. Boccara, "High-resolution in-vivo hum
 <div align='right' class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-doi='https://doi.org/10.1364/BOE.381398'></div>
 
 P. Mecê, K. Groux, **J. Scholler**, O. Thouvenin, M. Fink, K. Grieve, C. Boccara, "Coherence gate shaping for wide field high-resolution in vivo retinal imaging with full-field OCT," Biomed. Opt. Express 11, 4928-4941 (2020)
-<div align='right' class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-doi='https://doi.org/10.1364/BOE.381398'></div>
+<div align='right' class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-doi='https://doi.org/10.1364/BOE.400522'></div>
 
 V. Mazlin, P. Xiao, **J. Scholler**, K. Irsch, K. Grieve, M. Fink, C. Boccara, "Real-time non-contact cellular imaging and angiography of human cornea and limbus with common-path full-field/SD OCT". Nat Commun 11, 1868 (2020).
 <div align='right' class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-doi='https://doi.org/10.1038/s41467-020-15792-x'></div>
