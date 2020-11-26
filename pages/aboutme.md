@@ -6,7 +6,7 @@ image: /img/jules.png
 bigimg: /img/sainte_victoire.jpg
 ---
 
-I am currently working at the Wyss Center in Geneva as a software developer for bio-imaging applications.
+I am currently working at the Wyss Center in Geneva as a software engineer for bio-imaging applications.
 
 Before that I was working on my PhD at *Institut Langevin* in Paris under the supervision of Prof. Mathias Fink, Prof. Claude Boccara and Dr. Kate Grieve. My main research interest was to improve the dynamic full-field optical coherence tomography and to be able to apply it for retinal imaging.
 
