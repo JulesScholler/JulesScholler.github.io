@@ -35,8 +35,8 @@ V. Mazlin, P. Xiao, **J. Scholler**, K. Irsch, K. Grieve, M. Fink, C. Boccara, "
 **J. Scholler**, K. Groux, K. Grieve, C. Boccara and Pedro Mecê "Adaptive-glasses time-domain FFOCT for wide-field high-resolution retinal imaging with increased SNR," Opt. Lett. 45, 5901-5904 (2020).
 <div align='right' class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-doi='https://doi.org/10.1364/OL.403135'></div>
 
-**J. Scholler**, V. Barolle, P. Mecê, J-M. Chassot, K. Groux, M. Fink, C. Boccara and A. Aubry "Manifestation of aberrations in full-field optical coherence tomography" 	arXiv:2101.09996.
-<div align='right' class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-uri='https://arxiv.org/abs/2101.09996'></div>
+**J. Scholler**, V. Barolle,  P. Mecê, J.M. Chassot, K. Groux, M. Fink, C. Boccara and A. Aubry, "Manifestation of aberrations in full-field optical coherence tomography," Opt. Express 29, 22044-22065 (2021)
+<div align='right' class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-doi='https://doi.org/10.1364/OE.419963'></div>
 
 --
 ## News
@@ -56,7 +56,8 @@ H. Hogan, "Computational Imaging Builds Better Pictures", [Photonics](https://ww
 | **J. Scholler**, P. Mecê, K. Groux, V. Mazlin, C. Boccara and K. Grieve *"Motion artifact removal and signal enhancement to achieve in vivo dynamic full field OCT (Conference Presentation)"*, Proc. SPIE 11228, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XXIV, 112281N (9 March 2020)|
 |**J. Scholler**, O. Thouvenin, E. Benoit a la Guillaume and C. Boccara *"One hundred percent successful automatic breast cancer diagnosis using static and dynamic FFOCT images (Conference Presentation)"*, Proc. SPIE 11222, Molecular-Guided Surgery: Molecules, Devices, and Applications VI, 1122206 (10 March 2020)|
 |P. Mecê, **J. Scholler**, K. Groux, M. Fink, K. Grieve and C. Boccara *"Adaptive glasses-assisted Full-Field OCT for SNR enhanced 3D high-resolution retinal imaging (Conference Presentation)"*, Proc. SPIE 11228, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XXIV, 112281O (9 March 2020)|
-
+|P. Mecê, **J. Scholler**, K. Groux, M. Fink, K. Grieve and C. Boccara *"Adaptive glasses-assisted Full-Field OCT for SNR enhanced 3D high-resolution retinal imaging (Conference Presentation)"*, Proc. SPIE 11228, Optical Coherence Tomography and Coherence Domain Optical Methods in Biomedicine XXIV, 112281O (9 March 2020)|
+| **J. Scholler**, J. Jonsson, T. Jordà-Siquier, J. Barros, L. Batti, B. L. Cheeseman, S. Pagès, C. M. Lamy and I. F. Sbalzarini *"Leveraging the Adaptive Particle Representation for efficient large-scale neurohistology"*, ELMI 2021|
 --
 
 | Conference Posters (1st author/speaker)                                                                                                                       |
