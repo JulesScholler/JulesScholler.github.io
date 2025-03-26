@@ -22,17 +22,13 @@ description: This website presents my work and more.
 # List of links in the navigation bar
 navbar-links:
   Home: "https://www.jscholler.com"
+  Hire me: "pages/hireme"
   Cool projects:
     - Predicting time arrow in videos: "pages/timearrow"
     - Automatic portrait pictures ranking: "pages/regaind"
-  Research:
-    - List of contributions: "pages/contributions"
     - Mapping the LDOS with super-resolution: "pages/ldosstorm"
-    - Motion artifact removal for D-FFOCT: "pages/svd"
-  About:
-    - About me: "pages/aboutme"
-    - Climbing: "pages/climbing"
-    - Hiking and Mountainering: "pages/hiking-mountainering"
+    - Motion artifact removal for D-FFOCT: "pages/svd"    
+  About: "pages/aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
