@@ -2,12 +2,14 @@
 layout: page
 title: About me
 subtitle: And my interests
-image: /img/jules.png
-bigimg: /img/sainte_victoire.jpg
+image: /img/me_climbing.jpg
+bigimg: /img/me_skiing.jpg
 ---
 
-I am currently working at the Wyss Center in Geneva as a software engineer for bio-imaging applications.
+I'm currently part of the team at *Clee Medical* in Geneva, where we’re developing an innovative imaging device aimed at transforming the field of neurosurgery.
 
-Before that I was working on my PhD at *Institut Langevin* in Paris under the supervision of Prof. Mathias Fink, Prof. Claude Boccara and Dr. Kate Grieve. My main research interest was to develop dynamic full-field optical coherence tomography and to apply it for retinal imaging in vivo. Before my PhD I studied physics (major), chemistry and biology (minors) and obtained my engneering diploma (MSc level) at ESPCI Paris and then studied applied mathematics (machine learning and computer vision) and obtain my advanced MSc at Ecole Normale Supérieure.
+My academic background is rooted in physics and biomedical imaging. I completed my *PhD* at the Institut Langevin in Paris under the supervision of Prof. Mathias Fink, Prof. Claude Boccara, and Dr. Kate Grieve. My research focused on advancing dynamic full-field optical coherence tomography (OCT) and applying it to in vivo retinal imaging.
 
-Aside from my professional interests which gravitate around imaging and artificial intelligence I devote a great amount of time to climbing (the cover image is the summit of a 600m climb in the south of France) and reading crime novels. I also enjoy brewing and play board games, one of my favorite being Scythe.
+Before that, I earned my engineering degree (MSc level) from *ESPCI Paris*, where I majored in *physics* and minored in chemistry and biology. I then pursued a specialized MSc in *applied mathematics*, with a focus on *machine learning and computer vision*, at *École Normale Supérieure*.
+
+When I’m not immersed in imaging and AI, you’ll most likely find me climbing, skiing, mountaineering, or unwinding with a good crime novel.
